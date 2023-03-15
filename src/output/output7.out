@@ -1,0 +1,162 @@
+----****CHARMANDER VS NEUTREL2****----
+CHARMANDER abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. CHARMANDER HP 50  abilitatea 1 cooldown 3
+b. NEUTREL2 HP 16 
+CHARMANDER abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. CHARMANDER HP 49  abilitatea 1 cooldown 2 abilitatea 2 cooldown 5
+b. NEUTREL2 HP 9 
+CHARMANDER  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. CHARMANDER HP 47  abilitatea 1 cooldown 1 abilitatea 2 cooldown 4
+b. NEUTREL2 HP 4 
+CHARMANDER  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. CHARMANDER HP 46  abilitatea 2 cooldown 3
+b. NEUTREL2 HP -1 
+POKEMON 1: CHARMANDER WON
+WINNER : Batman WON
+----****PIKACHU VS NEUTREL2****----
+PIKACHU abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. PIKACHU HP 37 (dodge)   abilitatea 2 cooldown 4
+b. NEUTREL2 HP 16 
+PIKACHU  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. PIKACHU HP 35  abilitatea 2 cooldown 3
+b. NEUTREL2 HP 11 
+PIKACHU  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. PIKACHU HP 33  abilitatea 2 cooldown 2
+b. NEUTREL2 HP 6 
+PIKACHU  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. PIKACHU HP 31  abilitatea 2 cooldown 1
+b. NEUTREL2 HP 1 
+PIKACHU abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. PIKACHU HP 29  abilitatea 1 cooldown 3
+b. NEUTREL2 HP -5 
+POKEMON 1: PIKACHU WON
+WINNER : Superman WON
+----****CHARMANDER VS PIKACHU****----
+CHARMANDER abilitate 1  / PIKACHU abilitate 1  -> Rezultat: 
+a. CHARMANDER HP 47  abilitatea 1 cooldown 3
+b. PIKACHU HP 34  abilitatea 1 cooldown 3
+CHARMANDER abilitate 2 / PIKACHU atac special  -> Rezultat: 
+a. CHARMANDER HP 43  abilitatea 1 cooldown 2 abilitatea 2 cooldown 5
+b. PIKACHU HP 27  abilitatea 1 cooldown 2
+CHARMANDER  atac normal  / PIKACHU abilitate 2 -> Rezultat: 
+a. CHARMANDER HP 39  abilitatea 1 cooldown 1 abilitatea 2 cooldown 4
+b. PIKACHU HP 23  abilitatea 1 cooldown 1 abilitatea 2 cooldown 4
+CHARMANDER  atac normal  / PIKACHU atac special  -> Rezultat: 
+a. CHARMANDER HP 36  abilitatea 1 cooldown 1 abilitatea 2 cooldown 4
+b. PIKACHU HP 23 (dodge)   abilitatea 2 cooldown 3
+CHARMANDER  atac normal  / PIKACHU atac special  -> Rezultat: 
+a. CHARMANDER HP 32  abilitatea 2 cooldown 3
+b. PIKACHU HP 19  abilitatea 2 cooldown 2
+CHARMANDER abilitate 1  / PIKACHU atac special  -> Rezultat: 
+a. CHARMANDER HP 28  abilitatea 1 cooldown 3 abilitatea 2 cooldown 2
+b. PIKACHU HP 15  abilitatea 2 cooldown 1
+CHARMANDER  atac normal  / PIKACHU abilitate 1  -> Rezultat: 
+a. CHARMANDER HP 22  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+b. PIKACHU HP 15  abilitatea 1 cooldown 3
+CHARMANDER  atac normal  / PIKACHU atac special  -> Rezultat: 
+a. CHARMANDER HP 18  abilitatea 1 cooldown 1
+b. PIKACHU HP 11  abilitatea 1 cooldown 2
+CHARMANDER  atac normal  / PIKACHU abilitate 2 -> Rezultat: 
+a. CHARMANDER HP 14 
+b. PIKACHU HP 7  abilitatea 1 cooldown 1 abilitatea 2 cooldown 4
+CHARMANDER abilitate 2 / PIKACHU atac special  -> Rezultat: 
+a. CHARMANDER HP 10  abilitatea 2 cooldown 5
+b. PIKACHU HP 0  abilitatea 2 cooldown 3
+POKEMON 1: CHARMANDER WON
+WINNER : Batman WON
+----****EEVEE VS SQUIRTLE****----
+EEVEE abilitate 1  / SQUIRTLE abilitate 2 -> Rezultat: 
+a. EEVEE HP 39  abilitatea 1 cooldown 2
+b. SQUIRTLE HP 57  abilitatea 2 cooldown 1
+EEVEE abilitate 2 / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 34  abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+b. SQUIRTLE HP 54 
+EEVEE  atac special  / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 30  abilitatea 2 cooldown 1
+b. SQUIRTLE HP 52 
+EEVEE  atac special  / SQUIRTLE abilitate 1  -> Rezultat: 
+a. EEVEE HP 26 
+b. SQUIRTLE HP 50  abilitatea 1 cooldown 2
+EEVEE abilitate 1  / SQUIRTLE abilitate 2 -> Rezultat: 
+a. EEVEE HP 24  abilitatea 1 cooldown 2
+b. SQUIRTLE HP 45  abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+EEVEE  atac special  / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 19  abilitatea 1 cooldown 1
+b. SQUIRTLE HP 43 
+EEVEE  atac special  / SQUIRTLE abilitate 1  -> Rezultat: 
+a. EEVEE HP 15 
+b. SQUIRTLE HP 41  abilitatea 1 cooldown 2
+EEVEE abilitate 2 / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 11  abilitatea 2 cooldown 2
+b. SQUIRTLE HP 38  abilitatea 1 cooldown 1
+EEVEE abilitate 1  / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 7  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+b. SQUIRTLE HP 33 
+EEVEE  atac special  / SQUIRTLE abilitate 1  -> Rezultat: 
+a. EEVEE HP 3  abilitatea 1 cooldown 1
+b. SQUIRTLE HP 31  abilitatea 1 cooldown 2
+EEVEE  atac special  / SQUIRTLE abilitate 2 -> Rezultat: 
+a. EEVEE HP 1 
+b. SQUIRTLE HP 29  abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+EEVEE abilitate 1  / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP -4  abilitatea 1 cooldown 2
+b. SQUIRTLE HP 24 
+POKEMON 2: SQUIRTLE WON
+WINNER : Superman WON
+----****MEOWTH VS NEUTREL1****----
+MEOWTH  atac normal  / NEUTREL1 atac normal  -> Rezultat: 
+a. MEOWTH HP 42 
+b. NEUTREL1 HP 3 
+MEOWTH abilitate 2 / NEUTREL1 atac normal  -> Rezultat: 
+a. MEOWTH HP 42 (dodge)   abilitatea 2 cooldown 2
+b. NEUTREL1 HP 2 
+MEOWTH  atac normal  / NEUTREL1 atac normal  -> Rezultat: 
+a. MEOWTH HP 41  abilitatea 2 cooldown 1
+b. NEUTREL1 HP -5 
+POKEMON 1: MEOWTH WON
+WINNER : Batman WON
+----****EEVEE VS NEUTREL1****----
+EEVEE abilitate 1  / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 41  abilitatea 1 cooldown 2
+b. NEUTREL1 HP 5 
+EEVEE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 41  abilitatea 1 cooldown 1
+b. NEUTREL1 HP -3 
+POKEMON 1: EEVEE WON
+WINNER : Superman WON
+----****MEOWTH VS EEVEE****----
+MEOWTH abilitate 1  / EEVEE abilitate 1  -> Rezultat: 
+a. MEOWTH HP 39  abilitatea 1 cooldown 3
+b. EEVEE HP 37  abilitatea 1 cooldown 2
+MEOWTH abilitate 2 / EEVEE abilitate 2 -> Rezultat: 
+a. MEOWTH HP 36  abilitatea 1 cooldown 2 abilitatea 2 cooldown 2
+b. EEVEE HP 36  abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+MEOWTH  atac normal  / EEVEE atac special  -> Rezultat: 
+a. MEOWTH HP 36 (dodge)   abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+b. EEVEE HP 31  abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+MEOWTH  atac normal  / EEVEE atac special  -> Rezultat: 
+a. MEOWTH HP 29 
+b. EEVEE HP 29  abilitatea 2 cooldown 1
+MEOWTH  atac normal  / EEVEE abilitate 1  -> Rezultat: 
+a. MEOWTH HP 24 
+b. EEVEE HP 24  abilitatea 1 cooldown 2
+MEOWTH  atac normal  / EEVEE atac special  -> Rezultat: 
+a. MEOWTH HP 17 
+b. EEVEE HP 22  abilitatea 1 cooldown 1
+MEOWTH  atac normal  / EEVEE atac special  -> Rezultat: 
+a. MEOWTH HP 12 
+b. EEVEE HP 17 
+MEOWTH  atac normal  / EEVEE abilitate 2 -> Rezultat: 
+a. MEOWTH HP 9 
+b. EEVEE HP 15  abilitatea 2 cooldown 2
+MEOWTH abilitate 1  / EEVEE abilitate 1  -> Rezultat: 
+a. MEOWTH HP 4  abilitatea 1 cooldown 3
+b. EEVEE HP 10  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+MEOWTH  atac normal  / EEVEE atac special  -> Rezultat: 
+a. MEOWTH HP 4 (dodge)   abilitatea 1 cooldown 2
+b. EEVEE HP 5  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+MEOWTH  atac normal  / EEVEE atac special  -> Rezultat: 
+a. MEOWTH HP -1  abilitatea 1 cooldown 1
+b. EEVEE HP 3  abilitatea 1 cooldown 1
+POKEMON 2: EEVEE WON
+WINNER : Superman WON

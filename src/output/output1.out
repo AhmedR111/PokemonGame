@@ -1,0 +1,165 @@
+----****PIKACHU VS VULPIX****----
+PIKACHU abilitate 1  / VULPIX atac normal  -> Rezultat: 
+a. PIKACHU HP 32  abilitatea 1 cooldown 3
+b. VULPIX HP 30 
+PIKACHU  atac special  / VULPIX abilitate 2 -> Rezultat: 
+a. PIKACHU HP 30  abilitatea 1 cooldown 2
+b. VULPIX HP 30  abilitatea 2 cooldown 6
+PIKACHU abilitate 2 / VULPIX atac normal  -> Rezultat: 
+a. PIKACHU HP 30 (dodge)   abilitatea 1 cooldown 1 abilitatea 2 cooldown 4
+b. VULPIX HP 26  abilitatea 2 cooldown 6
+PIKACHU  atac special  / VULPIX atac normal  -> Rezultat: 
+a. PIKACHU HP 26  abilitatea 1 cooldown 1 abilitatea 2 cooldown 4
+b. VULPIX HP 26 (dodge)   abilitatea 2 cooldown 5
+PIKACHU  atac special  / VULPIX atac normal  -> Rezultat: 
+a. PIKACHU HP 23  abilitatea 2 cooldown 3
+b. VULPIX HP 26  abilitatea 2 cooldown 4
+PIKACHU  atac special  / VULPIX atac normal  -> Rezultat: 
+a. PIKACHU HP 19  abilitatea 2 cooldown 2
+b. VULPIX HP 26  abilitatea 2 cooldown 3
+PIKACHU  atac special  / VULPIX atac normal  -> Rezultat: 
+a. PIKACHU HP 15  abilitatea 2 cooldown 1
+b. VULPIX HP 26  abilitatea 2 cooldown 2
+PIKACHU  atac special  / VULPIX atac normal  -> Rezultat: 
+a. PIKACHU HP 11 
+b. VULPIX HP 26  abilitatea 2 cooldown 1
+PIKACHU  atac special  / VULPIX atac normal  -> Rezultat: 
+a. PIKACHU HP 8 
+b. VULPIX HP 26 
+PIKACHU abilitate 1  / VULPIX atac normal  -> Rezultat: 
+a. PIKACHU HP 5  abilitatea 1 cooldown 3
+b. VULPIX HP 20 
+PIKACHU abilitate 2 / VULPIX abilitate 1  -> Rezultat: 
+a. PIKACHU HP -3  abilitatea 1 cooldown 2 abilitatea 2 cooldown 4
+b. VULPIX HP 16  abilitatea 1 cooldown 5
+POKEMON 2: VULPIX WON
+WINNER : Bob WON
+----****BULBASAUR VS EEVEE****----
+BULBASAUR abilitate 1  / EEVEE abilitate 1  -> Rezultat: 
+a. BULBASAUR HP 37  abilitatea 1 cooldown 3
+b. EEVEE HP 33  abilitatea 1 cooldown 2
+BULBASAUR  atac special  / EEVEE atac special  -> Rezultat: 
+a. BULBASAUR HP 36  abilitatea 1 cooldown 2
+b. EEVEE HP 33  abilitatea 1 cooldown 1
+BULBASAUR abilitate 2 / EEVEE abilitate 2 -> Rezultat: 
+a. BULBASAUR HP 33  abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+b. EEVEE HP 28  abilitatea 2 cooldown 2
+BULBASAUR  atac special  / EEVEE atac special  -> Rezultat: 
+a. BULBASAUR HP 33 (dodge)   abilitatea 2 cooldown 1
+b. EEVEE HP 28  abilitatea 2 cooldown 2
+BULBASAUR abilitate 1  / EEVEE atac special  -> Rezultat: 
+a. BULBASAUR HP 32  abilitatea 1 cooldown 3
+b. EEVEE HP 22  abilitatea 2 cooldown 1
+BULBASAUR  atac special  / EEVEE atac special  -> Rezultat: 
+a. BULBASAUR HP 31  abilitatea 1 cooldown 2
+b. EEVEE HP 22 
+BULBASAUR abilitate 2 / EEVEE abilitate 1  -> Rezultat: 
+a. BULBASAUR HP 26  abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+b. EEVEE HP 17  abilitatea 1 cooldown 2
+BULBASAUR  atac special  / EEVEE abilitate 2 -> Rezultat: 
+a. BULBASAUR HP 23  abilitatea 2 cooldown 1
+b. EEVEE HP 17  abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+BULBASAUR abilitate 1  / EEVEE atac special  -> Rezultat: 
+a. BULBASAUR HP 23 (dodge)   abilitatea 1 cooldown 3
+b. EEVEE HP 11  abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+BULBASAUR abilitate 2 / EEVEE atac special  -> Rezultat: 
+a. BULBASAUR HP 23 (dodge)   abilitatea 1 cooldown 2 abilitatea 2 cooldown 2
+b. EEVEE HP 6  abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+BULBASAUR  atac special  / EEVEE atac special  -> Rezultat: 
+a. BULBASAUR HP 22  abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+b. EEVEE HP 6  abilitatea 2 cooldown 1
+BULBASAUR  atac special  / EEVEE abilitate 1  -> Rezultat: 
+a. BULBASAUR HP 17 
+b. EEVEE HP 6  abilitatea 1 cooldown 2
+BULBASAUR  atac special  / EEVEE atac special  -> Rezultat: 
+a. BULBASAUR HP 16 
+b. EEVEE HP 6  abilitatea 1 cooldown 1
+BULBASAUR abilitate 1  / EEVEE atac special  -> Rezultat: 
+a. BULBASAUR HP 15  abilitatea 1 cooldown 3
+b. EEVEE HP 0 
+POKEMON 1: BULBASAUR WON
+WINNER : Ash WON
+----****SNORLAX VS PSYDUCK****----
+SNORLAX abilitate 1  / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 60  abilitatea 1 cooldown 4
+b. PSYDUCK HP 39 
+SNORLAX abilitate 2 / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 60 (dodge)   abilitatea 1 cooldown 3 abilitatea 2 cooldown 4
+b. PSYDUCK HP 39 
+SNORLAX  atac normal  / PSYDUCK abilitate 1  -> Rezultat: 
+a. SNORLAX HP 58  abilitatea 1 cooldown 2 abilitatea 2 cooldown 3
+b. PSYDUCK HP 36  abilitatea 1 cooldown 3
+SNORLAX  atac normal  / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 56  abilitatea 1 cooldown 2 abilitatea 2 cooldown 3
+b. PSYDUCK HP 36 (dodge)   abilitatea 1 cooldown 2
+SNORLAX  atac normal  / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 54  abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+b. PSYDUCK HP 35  abilitatea 1 cooldown 1
+SNORLAX  atac normal  / PSYDUCK abilitate 2 -> Rezultat: 
+a. SNORLAX HP 52  abilitatea 2 cooldown 1
+b. PSYDUCK HP 34  abilitatea 2 cooldown 4
+SNORLAX  atac normal  / PSYDUCK abilitate 1  -> Rezultat: 
+a. SNORLAX HP 50 
+b. PSYDUCK HP 33  abilitatea 1 cooldown 3 abilitatea 2 cooldown 3
+SNORLAX abilitate 1  / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 48  abilitatea 1 cooldown 4
+b. PSYDUCK HP 29  abilitatea 1 cooldown 2 abilitatea 2 cooldown 2
+SNORLAX  atac normal  / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 46  abilitatea 1 cooldown 3
+b. PSYDUCK HP 28 (dodge)   abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+SNORLAX abilitate 2 / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 46 (dodge)   abilitatea 1 cooldown 2 abilitatea 2 cooldown 4
+b. PSYDUCK HP 28  abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+SNORLAX  atac normal  / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 44  abilitatea 1 cooldown 1 abilitatea 2 cooldown 3
+b. PSYDUCK HP 25 
+SNORLAX  atac normal  / PSYDUCK abilitate 2 -> Rezultat: 
+a. SNORLAX HP 42  abilitatea 2 cooldown 2
+b. PSYDUCK HP 24  abilitatea 2 cooldown 4
+SNORLAX abilitate 1  / PSYDUCK abilitate 1  -> Rezultat: 
+a. SNORLAX HP 40  abilitatea 1 cooldown 4 abilitatea 2 cooldown 1
+b. PSYDUCK HP 20  abilitatea 1 cooldown 3 abilitatea 2 cooldown 3
+SNORLAX  atac normal  / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 38  abilitatea 1 cooldown 3
+b. PSYDUCK HP 19 (dodge)   abilitatea 1 cooldown 2 abilitatea 2 cooldown 2
+SNORLAX  atac normal  / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 36  abilitatea 1 cooldown 2
+b. PSYDUCK HP 18  abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+SNORLAX  atac normal  / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 34  abilitatea 1 cooldown 1
+b. PSYDUCK HP 17 
+SNORLAX  atac normal  / PSYDUCK abilitate 1  -> Rezultat: 
+a. SNORLAX HP 32 
+b. PSYDUCK HP 16  abilitatea 1 cooldown 3
+SNORLAX abilitate 2 / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 32 (dodge)   abilitatea 2 cooldown 4
+b. PSYDUCK HP 16  abilitatea 1 cooldown 3
+SNORLAX  atac normal  / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 30  abilitatea 2 cooldown 3
+b. PSYDUCK HP 13 (dodge)   abilitatea 1 cooldown 2
+SNORLAX  atac normal  / PSYDUCK abilitate 2 -> Rezultat: 
+a. SNORLAX HP 28  abilitatea 2 cooldown 2
+b. PSYDUCK HP 12  abilitatea 1 cooldown 1 abilitatea 2 cooldown 4
+SNORLAX abilitate 1  / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 26  abilitatea 1 cooldown 4 abilitatea 2 cooldown 1
+b. PSYDUCK HP 8  abilitatea 2 cooldown 3
+SNORLAX  atac normal  / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 24  abilitatea 1 cooldown 3
+b. PSYDUCK HP 7  abilitatea 2 cooldown 2
+SNORLAX  atac normal  / PSYDUCK abilitate 1  -> Rezultat: 
+a. SNORLAX HP 22  abilitatea 1 cooldown 2
+b. PSYDUCK HP 4  abilitatea 1 cooldown 3 abilitatea 2 cooldown 1
+SNORLAX  atac normal  / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 20  abilitatea 1 cooldown 2
+b. PSYDUCK HP 4 (dodge)   abilitatea 1 cooldown 2
+SNORLAX abilitate 2 / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 20 (dodge)   abilitatea 1 cooldown 1 abilitatea 2 cooldown 4
+b. PSYDUCK HP 4  abilitatea 1 cooldown 2
+SNORLAX  atac normal  / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 18  abilitatea 2 cooldown 3
+b. PSYDUCK HP 3  abilitatea 1 cooldown 1
+SNORLAX  atac normal  / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 16  abilitatea 2 cooldown 2
+b. PSYDUCK HP 0 
+POKEMON 1: SNORLAX WON
+WINNER : Ash WON

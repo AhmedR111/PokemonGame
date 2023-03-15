@@ -1,0 +1,393 @@
+----****PIKACHU VS VULPIX****----
+PIKACHU abilitate 2 / VULPIX abilitate 1  -> Rezultat: 
+a. PIKACHU HP 27  abilitatea 2 cooldown 4
+b. VULPIX HP 42  abilitatea 1 cooldown 5
+PIKACHU abilitate 1  / VULPIX abilitate 2 -> Rezultat: 
+a. PIKACHU HP 25  abilitatea 1 cooldown 3 abilitatea 2 cooldown 3
+b. VULPIX HP 36  abilitatea 1 cooldown 4 abilitatea 2 cooldown 6
+PIKACHU  atac special  / VULPIX atac normal  -> Rezultat: 
+a. PIKACHU HP 25 (dodge)   abilitatea 1 cooldown 2 abilitatea 2 cooldown 2
+b. VULPIX HP 35 (dodge)   abilitatea 1 cooldown 4 abilitatea 2 cooldown 6
+PIKACHU  atac special  / VULPIX atac normal  -> Rezultat: 
+a. PIKACHU HP 19  abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+b. VULPIX HP 35  abilitatea 1 cooldown 3 abilitatea 2 cooldown 5
+PIKACHU  atac special  / VULPIX atac normal  -> Rezultat: 
+a. PIKACHU HP 13 
+b. VULPIX HP 34  abilitatea 1 cooldown 2 abilitatea 2 cooldown 4
+PIKACHU abilitate 2 / VULPIX atac normal  -> Rezultat: 
+a. PIKACHU HP 13 (dodge)   abilitatea 2 cooldown 4
+b. VULPIX HP 30  abilitatea 1 cooldown 2 abilitatea 2 cooldown 4
+PIKACHU  atac special  / VULPIX atac normal  -> Rezultat: 
+a. PIKACHU HP 7  abilitatea 2 cooldown 3
+b. VULPIX HP 29  abilitatea 1 cooldown 1 abilitatea 2 cooldown 3
+PIKACHU  atac special  / VULPIX atac normal  -> Rezultat: 
+a. PIKACHU HP 1  abilitatea 2 cooldown 2
+b. VULPIX HP 29  abilitatea 2 cooldown 2
+PIKACHU  atac special  / VULPIX atac normal  -> Rezultat: 
+a. PIKACHU HP -5  abilitatea 2 cooldown 1
+b. VULPIX HP 29  abilitatea 2 cooldown 1
+POKEMON 2: VULPIX WON
+WINNER : Eddie Brock WON
+----****EEVEE VS NEUTREL1****----
+EEVEE abilitate 1  / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 39  abilitatea 1 cooldown 2
+b. NEUTREL1 HP 5 
+EEVEE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 39  abilitatea 1 cooldown 1
+b. NEUTREL1 HP 2 
+EEVEE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 39 
+b. NEUTREL1 HP -1 
+POKEMON 1: EEVEE WON
+WINNER : Peter Parker WON
+----****SQUIRTLE VS NEUTREL1****----
+SQUIRTLE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 67 
+b. NEUTREL1 HP 8 
+SQUIRTLE abilitate 2 / NEUTREL1 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 64  abilitatea 2 cooldown 1
+b. NEUTREL1 HP 6 
+SQUIRTLE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 62 
+b. NEUTREL1 HP 4 
+SQUIRTLE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 59 
+b. NEUTREL1 HP 2 
+SQUIRTLE abilitate 1  / NEUTREL1 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 57  abilitatea 1 cooldown 2
+b. NEUTREL1 HP -2 
+POKEMON 1: SQUIRTLE WON
+WINNER : Eddie Brock WON
+----****EEVEE VS NEUTREL2****----
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 40 
+b. NEUTREL2 HP 16 
+EEVEE abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 40  abilitatea 1 cooldown 2
+b. NEUTREL2 HP 11 
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 40  abilitatea 1 cooldown 1
+b. NEUTREL2 HP 7 
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 40 
+b. NEUTREL2 HP 3 
+EEVEE abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 40  abilitatea 1 cooldown 2
+b. NEUTREL2 HP -2 
+POKEMON 1: EEVEE WON
+WINNER : Peter Parker WON
+----****SQUIRTLE VS NEUTREL2****----
+SQUIRTLE abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 69  abilitatea 2 cooldown 1
+b. NEUTREL2 HP 18 
+SQUIRTLE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 67 
+b. NEUTREL2 HP 15 
+SQUIRTLE abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 64  abilitatea 1 cooldown 2
+b. NEUTREL2 HP 11 
+SQUIRTLE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 62  abilitatea 1 cooldown 1
+b. NEUTREL2 HP 8 
+SQUIRTLE abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 59  abilitatea 2 cooldown 1
+b. NEUTREL2 HP 6 
+SQUIRTLE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 57 
+b. NEUTREL2 HP 3 
+SQUIRTLE abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 54  abilitatea 2 cooldown 1
+b. NEUTREL2 HP 1 
+SQUIRTLE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 51 
+b. NEUTREL2 HP -2 
+POKEMON 1: SQUIRTLE WON
+WINNER : Eddie Brock WON
+----****EEVEE VS NEUTREL2****----
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 40 
+b. NEUTREL2 HP 15 
+EEVEE abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 39  abilitatea 2 cooldown 2
+b. NEUTREL2 HP 12 
+EEVEE abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 38  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+b. NEUTREL2 HP 7 
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 37  abilitatea 1 cooldown 1
+b. NEUTREL2 HP 2 
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 36 
+b. NEUTREL2 HP -3 
+POKEMON 1: EEVEE WON
+WINNER : Peter Parker WON
+----****SQUIRTLE VS NEUTREL2****----
+SQUIRTLE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 68 
+b. NEUTREL2 HP 16 
+SQUIRTLE abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 64  abilitatea 1 cooldown 2
+b. NEUTREL2 HP 12 
+SQUIRTLE abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 61  abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+b. NEUTREL2 HP 10 
+SQUIRTLE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 57 
+b. NEUTREL2 HP 6 
+SQUIRTLE abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 53  abilitatea 1 cooldown 2
+b. NEUTREL2 HP 2 
+SQUIRTLE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 50  abilitatea 1 cooldown 1
+b. NEUTREL2 HP -2 
+POKEMON 1: SQUIRTLE WON
+WINNER : Eddie Brock WON
+----****EEVEE VS NEUTREL1****----
+EEVEE abilitate 1  / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 39  abilitatea 1 cooldown 2
+b. NEUTREL1 HP 5 
+EEVEE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 36  abilitatea 1 cooldown 1
+b. NEUTREL1 HP -1 
+POKEMON 1: EEVEE WON
+WINNER : Peter Parker WON
+----****SQUIRTLE VS NEUTREL1****----
+SQUIRTLE abilitate 1  / NEUTREL1 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 67  abilitatea 1 cooldown 2
+b. NEUTREL1 HP 6 
+SQUIRTLE abilitate 2 / NEUTREL1 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 62  abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+b. NEUTREL1 HP 4 
+SQUIRTLE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 57 
+b. NEUTREL1 HP -1 
+POKEMON 1: SQUIRTLE WON
+WINNER : Eddie Brock WON
+----****EEVEE VS NEUTREL2****----
+EEVEE abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 40  abilitatea 1 cooldown 2
+b. NEUTREL2 HP 15 
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 37  abilitatea 1 cooldown 1
+b. NEUTREL2 HP 8 
+EEVEE abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 34  abilitatea 2 cooldown 2
+b. NEUTREL2 HP 5 
+EEVEE abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 31  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+b. NEUTREL2 HP 0 
+POKEMON 1: EEVEE WON
+WINNER : Peter Parker WON
+----****SQUIRTLE VS NEUTREL2****----
+SQUIRTLE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 68 
+b. NEUTREL2 HP 14 
+SQUIRTLE abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 62  abilitatea 2 cooldown 1
+b. NEUTREL2 HP 12 
+SQUIRTLE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 57 
+b. NEUTREL2 HP 6 
+SQUIRTLE abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 51  abilitatea 2 cooldown 1
+b. NEUTREL2 HP 4 
+SQUIRTLE abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 45  abilitatea 1 cooldown 2
+b. NEUTREL2 HP 0 
+POKEMON 1: SQUIRTLE WON
+WINNER : Eddie Brock WON
+----****EEVEE VS NEUTREL2****----
+EEVEE abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 40  abilitatea 2 cooldown 2
+b. NEUTREL2 HP 17 
+EEVEE abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 36  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+b. NEUTREL2 HP 12 
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 32  abilitatea 1 cooldown 1
+b. NEUTREL2 HP 4 
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 28 
+b. NEUTREL2 HP -4 
+POKEMON 1: EEVEE WON
+WINNER : Peter Parker WON
+----****SQUIRTLE VS NEUTREL2****----
+SQUIRTLE abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 69  abilitatea 1 cooldown 2
+b. NEUTREL2 HP 16 
+SQUIRTLE abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 62  abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+b. NEUTREL2 HP 14 
+SQUIRTLE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 56 
+b. NEUTREL2 HP 7 
+SQUIRTLE abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 50  abilitatea 1 cooldown 2
+b. NEUTREL2 HP 3 
+SQUIRTLE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 44  abilitatea 1 cooldown 1
+b. NEUTREL2 HP -4 
+POKEMON 1: SQUIRTLE WON
+WINNER : Eddie Brock WON
+----****EEVEE VS NEUTREL1****----
+EEVEE abilitate 2 / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 39  abilitatea 2 cooldown 2
+b. NEUTREL1 HP 7 
+EEVEE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 33  abilitatea 2 cooldown 1
+b. NEUTREL1 HP -2 
+POKEMON 1: EEVEE WON
+WINNER : Peter Parker WON
+----****SQUIRTLE VS NEUTREL1****----
+SQUIRTLE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 67 
+b. NEUTREL1 HP 2 
+SQUIRTLE abilitate 2 / NEUTREL1 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 59  abilitatea 2 cooldown 1
+b. NEUTREL1 HP 0 
+POKEMON 1: SQUIRTLE WON
+WINNER : Eddie Brock WON
+----****EEVEE VS SQUIRTLE****----
+EEVEE abilitate 2 / SQUIRTLE abilitate 2 -> Rezultat: 
+a. EEVEE HP 44  abilitatea 2 cooldown 2
+b. SQUIRTLE HP 74  abilitatea 2 cooldown 1
+EEVEE  atac special  / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 44  abilitatea 2 cooldown 1
+b. SQUIRTLE HP 73 
+EEVEE  atac special  / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 44 
+b. SQUIRTLE HP 72 
+EEVEE  atac special  / SQUIRTLE abilitate 1  -> Rezultat: 
+a. EEVEE HP 40 
+b. SQUIRTLE HP 70  abilitatea 1 cooldown 2
+EEVEE abilitate 1  / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 40  abilitatea 1 cooldown 2
+b. SQUIRTLE HP 65  abilitatea 1 cooldown 1
+EEVEE  atac special  / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 40  abilitatea 1 cooldown 1
+b. SQUIRTLE HP 63 
+EEVEE  atac special  / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 40 
+b. SQUIRTLE HP 62 
+EEVEE abilitate 1  / SQUIRTLE abilitate 1  -> Rezultat: 
+a. EEVEE HP 36  abilitatea 1 cooldown 2
+b. SQUIRTLE HP 57  abilitatea 1 cooldown 2
+EEVEE  atac special  / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 36  abilitatea 1 cooldown 1
+b. SQUIRTLE HP 56  abilitatea 1 cooldown 1
+EEVEE  atac special  / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 36 
+b. SQUIRTLE HP 55 
+EEVEE abilitate 2 / SQUIRTLE abilitate 2 -> Rezultat: 
+a. EEVEE HP 34  abilitatea 2 cooldown 2
+b. SQUIRTLE HP 52  abilitatea 2 cooldown 1
+EEVEE  atac special  / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 34  abilitatea 2 cooldown 1
+b. SQUIRTLE HP 50 
+EEVEE  atac special  / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 34 
+b. SQUIRTLE HP 49 
+EEVEE abilitate 2 / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 34  abilitatea 2 cooldown 2
+b. SQUIRTLE HP 46 
+EEVEE  atac special  / SQUIRTLE abilitate 1  -> Rezultat: 
+a. EEVEE HP 30  abilitatea 2 cooldown 1
+b. SQUIRTLE HP 45  abilitatea 1 cooldown 2
+EEVEE  atac special  / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 30 
+b. SQUIRTLE HP 43  abilitatea 1 cooldown 1
+EEVEE  atac special  / SQUIRTLE abilitate 2 -> Rezultat: 
+a. EEVEE HP 28 
+b. SQUIRTLE HP 41  abilitatea 2 cooldown 1
+EEVEE  atac special  / SQUIRTLE abilitate 1  -> Rezultat: 
+a. EEVEE HP 24 
+b. SQUIRTLE HP 39  abilitatea 1 cooldown 2
+EEVEE abilitate 1  / SQUIRTLE abilitate 2 -> Rezultat: 
+a. EEVEE HP 22  abilitatea 1 cooldown 2
+b. SQUIRTLE HP 34  abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+EEVEE abilitate 2 / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 22  abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+b. SQUIRTLE HP 31 
+EEVEE  atac special  / SQUIRTLE abilitate 2 -> Rezultat: 
+a. EEVEE HP 20  abilitatea 2 cooldown 1
+b. SQUIRTLE HP 30  abilitatea 2 cooldown 1
+EEVEE  atac special  / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 20 
+b. SQUIRTLE HP 28 
+EEVEE abilitate 1  / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 20  abilitatea 1 cooldown 2
+b. SQUIRTLE HP 23 
+EEVEE  atac special  / SQUIRTLE abilitate 2 -> Rezultat: 
+a. EEVEE HP 18  abilitatea 1 cooldown 1
+b. SQUIRTLE HP 21  abilitatea 2 cooldown 1
+EEVEE abilitate 2 / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 18  abilitatea 2 cooldown 2
+b. SQUIRTLE HP 18 
+EEVEE  atac special  / SQUIRTLE abilitate 2 -> Rezultat: 
+a. EEVEE HP 16  abilitatea 2 cooldown 1
+b. SQUIRTLE HP 16  abilitatea 2 cooldown 1
+EEVEE  atac special  / SQUIRTLE abilitate 1  -> Rezultat: 
+a. EEVEE HP 12 
+b. SQUIRTLE HP 15  abilitatea 1 cooldown 2
+EEVEE abilitate 2 / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 12  abilitatea 2 cooldown 2
+b. SQUIRTLE HP 12  abilitatea 1 cooldown 1
+EEVEE  atac special  / SQUIRTLE abilitate 2 -> Rezultat: 
+a. EEVEE HP 10  abilitatea 2 cooldown 1
+b. SQUIRTLE HP 10  abilitatea 2 cooldown 1
+EEVEE  atac special  / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 10 
+b. SQUIRTLE HP 9 
+EEVEE abilitate 1  / SQUIRTLE abilitate 2 -> Rezultat: 
+a. EEVEE HP 8  abilitatea 1 cooldown 2
+b. SQUIRTLE HP 4  abilitatea 2 cooldown 1
+EEVEE  atac special  / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 8  abilitatea 1 cooldown 1
+b. SQUIRTLE HP 2 
+EEVEE abilitate 2 / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 8  abilitatea 2 cooldown 2
+b. SQUIRTLE HP -1 
+POKEMON 1: EEVEE WON
+WINNER : Peter Parker WON
+----****MEOWTH VS CHARMANDER****----
+MEOWTH abilitate 2 / CHARMANDER abilitate 2 -> Rezultat: 
+a. MEOWTH HP 34  abilitatea 2 cooldown 2
+b. CHARMANDER HP 59  abilitatea 2 cooldown 5
+MEOWTH abilitate 1  / CHARMANDER atac normal  -> Rezultat: 
+a. MEOWTH HP 34 (dodge)   abilitatea 1 cooldown 3 abilitatea 2 cooldown 1
+b. CHARMANDER HP 54  abilitatea 2 cooldown 5
+MEOWTH  atac normal  / CHARMANDER abilitate 1  -> Rezultat: 
+a. MEOWTH HP 30  abilitatea 1 cooldown 2
+b. CHARMANDER HP 52  abilitatea 1 cooldown 3 abilitatea 2 cooldown 4
+MEOWTH  atac normal  / CHARMANDER atac normal  -> Rezultat: 
+a. MEOWTH HP 27  abilitatea 1 cooldown 1
+b. CHARMANDER HP 50  abilitatea 1 cooldown 2 abilitatea 2 cooldown 3
+MEOWTH abilitate 2 / CHARMANDER atac normal  -> Rezultat: 
+a. MEOWTH HP 27 (dodge)   abilitatea 2 cooldown 2
+b. CHARMANDER HP 49  abilitatea 1 cooldown 2 abilitatea 2 cooldown 3
+MEOWTH  atac normal  / CHARMANDER atac normal  -> Rezultat: 
+a. MEOWTH HP 24  abilitatea 2 cooldown 1
+b. CHARMANDER HP 47  abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+MEOWTH  atac normal  / CHARMANDER atac normal  -> Rezultat: 
+a. MEOWTH HP 21 
+b. CHARMANDER HP 45  abilitatea 2 cooldown 1
+MEOWTH  atac normal  / CHARMANDER abilitate 1  -> Rezultat: 
+a. MEOWTH HP 17 
+b. CHARMANDER HP 43  abilitatea 1 cooldown 3
+MEOWTH  atac normal  / CHARMANDER atac normal  -> Rezultat: 
+a. MEOWTH HP 12 
+b. CHARMANDER HP 41  abilitatea 1 cooldown 2
+MEOWTH  atac normal  / CHARMANDER atac normal  -> Rezultat: 
+a. MEOWTH HP 7 
+b. CHARMANDER HP 39  abilitatea 1 cooldown 1
+MEOWTH abilitate 1  / CHARMANDER atac normal  -> Rezultat: 
+a. MEOWTH HP 7 (dodge)   abilitatea 1 cooldown 3
+b. CHARMANDER HP 34  abilitatea 1 cooldown 1
+MEOWTH  atac normal  / CHARMANDER atac normal  -> Rezultat: 
+a. MEOWTH HP 4  abilitatea 1 cooldown 2
+b. CHARMANDER HP 30 
+MEOWTH  atac normal  / CHARMANDER abilitate 2 -> Rezultat: 
+a. MEOWTH HP -3  abilitatea 1 cooldown 1
+b. CHARMANDER HP 26  abilitatea 2 cooldown 5
+POKEMON 2: CHARMANDER WON
+WINNER : Eddie Brock WON

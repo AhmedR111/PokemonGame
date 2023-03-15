@@ -1,0 +1,230 @@
+----****VULPIX VS VULPIX****----
+VULPIX  atac normal  / VULPIX atac normal  -> Rezultat: 
+a. VULPIX HP 42 
+b. VULPIX HP 31 
+VULPIX  atac normal  / VULPIX abilitate 1  -> Rezultat: 
+a. VULPIX HP 34 
+b. VULPIX HP 28  abilitatea 1 cooldown 5
+VULPIX abilitate 2 / VULPIX atac normal  -> Rezultat: 
+a. VULPIX HP 34 (dodge)   abilitatea 2 cooldown 6
+b. VULPIX HP 26  abilitatea 1 cooldown 5
+VULPIX  atac normal  / VULPIX atac normal  -> Rezultat: 
+a. VULPIX HP 30  abilitatea 2 cooldown 5
+b. VULPIX HP 21  abilitatea 1 cooldown 4
+VULPIX abilitate 1  / VULPIX abilitate 2 -> Rezultat: 
+a. VULPIX HP 28  abilitatea 1 cooldown 5 abilitatea 2 cooldown 4
+b. VULPIX HP 13  abilitatea 1 cooldown 3 abilitatea 2 cooldown 6
+VULPIX  atac normal  / VULPIX atac normal  -> Rezultat: 
+a. VULPIX HP 22  abilitatea 1 cooldown 5 abilitatea 2 cooldown 4
+b. VULPIX HP 13 (dodge)   abilitatea 1 cooldown 2 abilitatea 2 cooldown 5
+VULPIX  atac normal  / VULPIX atac normal  -> Rezultat: 
+a. VULPIX HP 16  abilitatea 1 cooldown 4 abilitatea 2 cooldown 3
+b. VULPIX HP 10  abilitatea 1 cooldown 1 abilitatea 2 cooldown 4
+VULPIX  atac normal  / VULPIX atac normal  -> Rezultat: 
+a. VULPIX HP 10  abilitatea 1 cooldown 3 abilitatea 2 cooldown 2
+b. VULPIX HP 5  abilitatea 2 cooldown 3
+VULPIX  atac normal  / VULPIX abilitate 1  -> Rezultat: 
+a. VULPIX HP 2  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+b. VULPIX HP 2  abilitatea 1 cooldown 5 abilitatea 2 cooldown 2
+VULPIX  atac normal  / VULPIX atac normal  -> Rezultat: 
+a. VULPIX HP -2  abilitatea 1 cooldown 1
+b. VULPIX HP -1  abilitatea 1 cooldown 4 abilitatea 2 cooldown 1
+DRAW
+----****PIKACHU VS EEVEE****----
+PIKACHU abilitate 2 / EEVEE abilitate 1  -> Rezultat: 
+a. PIKACHU HP 40  abilitatea 2 cooldown 4
+b. EEVEE HP 35  abilitatea 1 cooldown 2
+PIKACHU  atac special  / EEVEE atac special  -> Rezultat: 
+a. PIKACHU HP 36 (dodge)   abilitatea 2 cooldown 3
+b. EEVEE HP 34  abilitatea 1 cooldown 1
+PIKACHU  atac special  / EEVEE atac special  -> Rezultat: 
+a. PIKACHU HP 32  abilitatea 2 cooldown 2
+b. EEVEE HP 33 
+PIKACHU  atac special  / EEVEE atac special  -> Rezultat: 
+a. PIKACHU HP 32  abilitatea 2 cooldown 1
+b. EEVEE HP 32 
+PIKACHU  atac special  / EEVEE abilitate 2 -> Rezultat: 
+a. PIKACHU HP 29 
+b. EEVEE HP 31  abilitatea 2 cooldown 2
+PIKACHU  atac special  / EEVEE atac special  -> Rezultat: 
+a. PIKACHU HP 25 
+b. EEVEE HP 30  abilitatea 2 cooldown 1
+PIKACHU  atac special  / EEVEE atac special  -> Rezultat: 
+a. PIKACHU HP 21 
+b. EEVEE HP 29 
+PIKACHU abilitate 2 / EEVEE abilitate 2 -> Rezultat: 
+a. PIKACHU HP 18  abilitatea 2 cooldown 4
+b. EEVEE HP 25  abilitatea 2 cooldown 2
+PIKACHU  atac special  / EEVEE atac special  -> Rezultat: 
+a. PIKACHU HP 18 (dodge)   abilitatea 2 cooldown 3
+b. EEVEE HP 24  abilitatea 2 cooldown 2
+PIKACHU abilitate 1  / EEVEE atac special  -> Rezultat: 
+a. PIKACHU HP 18  abilitatea 1 cooldown 3 abilitatea 2 cooldown 2
+b. EEVEE HP 18  abilitatea 2 cooldown 1
+PIKACHU  atac special  / EEVEE atac special  -> Rezultat: 
+a. PIKACHU HP 18  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+b. EEVEE HP 17 
+PIKACHU  atac special  / EEVEE abilitate 1  -> Rezultat: 
+a. PIKACHU HP 13  abilitatea 1 cooldown 1
+b. EEVEE HP 16  abilitatea 1 cooldown 2
+PIKACHU  atac special  / EEVEE abilitate 2 -> Rezultat: 
+a. PIKACHU HP 10 
+b. EEVEE HP 15  abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+PIKACHU abilitate 2 / EEVEE atac special  -> Rezultat: 
+a. PIKACHU HP 10 (dodge)   abilitatea 2 cooldown 4
+b. EEVEE HP 11  abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+PIKACHU abilitate 1  / EEVEE atac special  -> Rezultat: 
+a. PIKACHU HP 10  abilitatea 1 cooldown 3 abilitatea 2 cooldown 3
+b. EEVEE HP 5  abilitatea 2 cooldown 1
+PIKACHU  atac special  / EEVEE atac special  -> Rezultat: 
+a. PIKACHU HP 10  abilitatea 1 cooldown 2 abilitatea 2 cooldown 2
+b. EEVEE HP 4 
+PIKACHU  atac special  / EEVEE abilitate 2 -> Rezultat: 
+a. PIKACHU HP 7  abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+b. EEVEE HP 3  abilitatea 2 cooldown 2
+PIKACHU  atac special  / EEVEE abilitate 1  -> Rezultat: 
+a. PIKACHU HP 2 
+b. EEVEE HP 2  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+PIKACHU  atac special  / EEVEE atac special  -> Rezultat: 
+a. PIKACHU HP -2 
+b. EEVEE HP 1  abilitatea 1 cooldown 1
+POKEMON 2: EEVEE WON
+WINNER : Dorian WON
+----****EEVEE VS NEUTREL2****----
+EEVEE abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 50  abilitatea 1 cooldown 2
+b. NEUTREL2 HP 15 
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 49  abilitatea 1 cooldown 1
+b. NEUTREL2 HP 10 
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 48 
+b. NEUTREL2 HP 5 
+EEVEE abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 47  abilitatea 2 cooldown 2
+b. NEUTREL2 HP 2 
+EEVEE abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 46  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+b. NEUTREL2 HP -3 
+POKEMON 1: EEVEE WON
+WINNER : Cheloo WON
+----****PSYDUCK VS NEUTREL2****----
+PSYDUCK abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. PSYDUCK HP 42  abilitatea 2 cooldown 4
+b. NEUTREL2 HP 18 
+PSYDUCK  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. PSYDUCK HP 41  abilitatea 2 cooldown 3
+b. NEUTREL2 HP 13 
+PSYDUCK  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. PSYDUCK HP 40  abilitatea 2 cooldown 2
+b. NEUTREL2 HP 8 
+PSYDUCK  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. PSYDUCK HP 39  abilitatea 2 cooldown 1
+b. NEUTREL2 HP 3 
+PSYDUCK  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. PSYDUCK HP 38 
+b. NEUTREL2 HP -2 
+POKEMON 1: PSYDUCK WON
+WINNER : Dorian WON
+----****EEVEE VS NEUTREL2****----
+EEVEE abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 50  abilitatea 2 cooldown 2
+b. NEUTREL2 HP 17 
+EEVEE abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 48  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+b. NEUTREL2 HP 12 
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 46  abilitatea 1 cooldown 1
+b. NEUTREL2 HP 6 
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 44 
+b. NEUTREL2 HP 0 
+POKEMON 1: EEVEE WON
+WINNER : Cheloo WON
+----****PSYDUCK VS NEUTREL2****----
+PSYDUCK abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. PSYDUCK HP 44 (dodge)   abilitatea 1 cooldown 3
+b. NEUTREL2 HP 18 
+PSYDUCK  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. PSYDUCK HP 44  abilitatea 1 cooldown 2
+b. NEUTREL2 HP 12 
+PSYDUCK  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. PSYDUCK HP 44  abilitatea 1 cooldown 1
+b. NEUTREL2 HP 6 
+PSYDUCK abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. PSYDUCK HP 44  abilitatea 2 cooldown 4
+b. NEUTREL2 HP 4 
+PSYDUCK  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. PSYDUCK HP 44  abilitatea 2 cooldown 3
+b. NEUTREL2 HP -2 
+POKEMON 1: PSYDUCK WON
+WINNER : Dorian WON
+----****EEVEE VS NEUTREL1****----
+EEVEE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 49 
+b. NEUTREL1 HP 3 
+EEVEE abilitate 1  / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 45  abilitatea 1 cooldown 2
+b. NEUTREL1 HP -2 
+POKEMON 1: EEVEE WON
+WINNER : Cheloo WON
+----****PSYDUCK VS NEUTREL1****----
+PSYDUCK abilitate 2 / NEUTREL1 atac normal  -> Rezultat: 
+a. PSYDUCK HP 43  abilitatea 2 cooldown 4
+b. NEUTREL1 HP 8 
+PSYDUCK abilitate 1  / NEUTREL1 atac normal  -> Rezultat: 
+a. PSYDUCK HP 43 (dodge)   abilitatea 1 cooldown 3 abilitatea 2 cooldown 3
+b. NEUTREL1 HP 6 
+PSYDUCK  atac normal  / NEUTREL1 atac normal  -> Rezultat: 
+a. PSYDUCK HP 41  abilitatea 1 cooldown 2 abilitatea 2 cooldown 2
+b. NEUTREL1 HP -1 
+POKEMON 1: PSYDUCK WON
+WINNER : Dorian WON
+----****EEVEE VS PSYDUCK****----
+EEVEE  atac special  / PSYDUCK atac normal  -> Rezultat: 
+a. EEVEE HP 53 
+b. PSYDUCK HP 43 
+EEVEE  atac special  / PSYDUCK abilitate 2 -> Rezultat: 
+a. EEVEE HP 51 
+b. PSYDUCK HP 40  abilitatea 2 cooldown 4
+EEVEE  atac special  / PSYDUCK atac normal  -> Rezultat: 
+a. EEVEE HP 50 
+b. PSYDUCK HP 37  abilitatea 2 cooldown 3
+EEVEE abilitate 1  / PSYDUCK atac normal  -> Rezultat: 
+a. EEVEE HP 49  abilitatea 1 cooldown 2
+b. PSYDUCK HP 32  abilitatea 2 cooldown 2
+EEVEE  atac special  / PSYDUCK atac normal  -> Rezultat: 
+a. EEVEE HP 48  abilitatea 1 cooldown 1
+b. PSYDUCK HP 29  abilitatea 2 cooldown 1
+EEVEE  atac special  / PSYDUCK atac normal  -> Rezultat: 
+a. EEVEE HP 47 
+b. PSYDUCK HP 26 
+EEVEE  atac special  / PSYDUCK abilitate 2 -> Rezultat: 
+a. EEVEE HP 45 
+b. PSYDUCK HP 23  abilitatea 2 cooldown 4
+EEVEE abilitate 2 / PSYDUCK atac normal  -> Rezultat: 
+a. EEVEE HP 44  abilitatea 2 cooldown 2
+b. PSYDUCK HP 20  abilitatea 2 cooldown 3
+EEVEE abilitate 1  / PSYDUCK atac normal  -> Rezultat: 
+a. EEVEE HP 43  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+b. PSYDUCK HP 15  abilitatea 2 cooldown 2
+EEVEE  atac special  / PSYDUCK abilitate 1  -> Rezultat: 
+a. EEVEE HP 41  abilitatea 1 cooldown 1
+b. PSYDUCK HP 12  abilitatea 1 cooldown 3 abilitatea 2 cooldown 1
+EEVEE  atac special  / PSYDUCK atac normal  -> Rezultat: 
+a. EEVEE HP 40  abilitatea 1 cooldown 1
+b. PSYDUCK HP 12 (dodge)   abilitatea 1 cooldown 2
+EEVEE  atac special  / PSYDUCK atac normal  -> Rezultat: 
+a. EEVEE HP 39 
+b. PSYDUCK HP 9  abilitatea 1 cooldown 1
+EEVEE  atac special  / PSYDUCK atac normal  -> Rezultat: 
+a. EEVEE HP 38 
+b. PSYDUCK HP 6 
+EEVEE abilitate 2 / PSYDUCK abilitate 2 -> Rezultat: 
+a. EEVEE HP 36  abilitatea 2 cooldown 2
+b. PSYDUCK HP 3  abilitatea 2 cooldown 4
+EEVEE abilitate 1  / PSYDUCK atac normal  -> Rezultat: 
+a. EEVEE HP 35  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+b. PSYDUCK HP -2  abilitatea 2 cooldown 3
+POKEMON 1: EEVEE WON
+WINNER : Cheloo WON

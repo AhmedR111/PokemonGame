@@ -1,0 +1,384 @@
+----****BULBASAUR VS NEUTREL1****----
+BULBASAUR abilitate 2 / NEUTREL1 atac normal  -> Rezultat: 
+a. BULBASAUR HP 42 (dodge)   abilitatea 2 cooldown 2
+b. NEUTREL1 HP 5 
+BULBASAUR  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. BULBASAUR HP 42  abilitatea 2 cooldown 1
+b. NEUTREL1 HP -2 
+POKEMON 1: BULBASAUR WON
+WINNER : Radu WON
+----****VULPIX VS NEUTREL1****----
+VULPIX abilitate 1  / NEUTREL1 atac normal  -> Rezultat: 
+a. VULPIX HP 37  abilitatea 1 cooldown 5
+b. NEUTREL1 HP 2 
+VULPIX abilitate 2 / NEUTREL1 atac normal  -> Rezultat: 
+a. VULPIX HP 37 (dodge)   abilitatea 1 cooldown 4 abilitatea 2 cooldown 6
+b. NEUTREL1 HP 0 
+POKEMON 1: VULPIX WON
+WINNER : Doomer WON
+----****BULBASAUR VS NEUTREL2****----
+BULBASAUR abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. BULBASAUR HP 43 (dodge)   abilitatea 2 cooldown 2
+b. NEUTREL2 HP 15 
+BULBASAUR  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. BULBASAUR HP 43  abilitatea 2 cooldown 1
+b. NEUTREL2 HP 7 
+BULBASAUR  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. BULBASAUR HP 43 
+b. NEUTREL2 HP -1 
+POKEMON 1: BULBASAUR WON
+WINNER : Radu WON
+----****VULPIX VS NEUTREL2****----
+VULPIX abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. VULPIX HP 38  abilitatea 1 cooldown 5
+b. NEUTREL2 HP 12 
+VULPIX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. VULPIX HP 37  abilitatea 1 cooldown 4
+b. NEUTREL2 HP 5 
+VULPIX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. VULPIX HP 36  abilitatea 1 cooldown 3
+b. NEUTREL2 HP -2 
+POKEMON 1: VULPIX WON
+WINNER : Doomer WON
+----****BULBASAUR VS VULPIX****----
+BULBASAUR abilitate 2 / VULPIX atac normal  -> Rezultat: 
+a. BULBASAUR HP 44 (dodge)   abilitatea 2 cooldown 2
+b. VULPIX HP 35 
+BULBASAUR abilitate 1  / VULPIX abilitate 1  -> Rezultat: 
+a. BULBASAUR HP 36  abilitatea 1 cooldown 3 abilitatea 2 cooldown 1
+b. VULPIX HP 29  abilitatea 1 cooldown 5
+BULBASAUR  atac special  / VULPIX atac normal  -> Rezultat: 
+a. BULBASAUR HP 35  abilitatea 1 cooldown 2
+b. VULPIX HP 25  abilitatea 1 cooldown 4
+BULBASAUR abilitate 2 / VULPIX abilitate 2 -> Rezultat: 
+a. BULBASAUR HP 33  abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+b. VULPIX HP 20  abilitatea 1 cooldown 3 abilitatea 2 cooldown 6
+BULBASAUR  atac special  / VULPIX atac normal  -> Rezultat: 
+a. BULBASAUR HP 32 (dodge)   abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+b. VULPIX HP 20 (dodge)   abilitatea 1 cooldown 2 abilitatea 2 cooldown 5
+BULBASAUR  atac special  / VULPIX atac normal  -> Rezultat: 
+a. BULBASAUR HP 28  abilitatea 2 cooldown 1
+b. VULPIX HP 16  abilitatea 1 cooldown 1 abilitatea 2 cooldown 4
+BULBASAUR abilitate 1  / VULPIX atac normal  -> Rezultat: 
+a. BULBASAUR HP 27  abilitatea 1 cooldown 3
+b. VULPIX HP 10  abilitatea 2 cooldown 3
+BULBASAUR  atac special  / VULPIX atac normal  -> Rezultat: 
+a. BULBASAUR HP 23  abilitatea 1 cooldown 2
+b. VULPIX HP 6  abilitatea 2 cooldown 2
+BULBASAUR  atac special  / VULPIX atac normal  -> Rezultat: 
+a. BULBASAUR HP 19  abilitatea 1 cooldown 1
+b. VULPIX HP 0  abilitatea 2 cooldown 1
+POKEMON 1: BULBASAUR WON
+WINNER : Radu WON
+----****PIKACHU VS NEUTREL1****----
+PIKACHU abilitate 1  / NEUTREL1 atac normal  -> Rezultat: 
+a. PIKACHU HP 34  abilitatea 1 cooldown 3
+b. NEUTREL1 HP 4 
+PIKACHU  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. PIKACHU HP 32  abilitatea 1 cooldown 2
+b. NEUTREL1 HP -2 
+POKEMON 1: PIKACHU WON
+WINNER : Radu WON
+----****EEVEE VS NEUTREL1****----
+EEVEE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 41 
+b. NEUTREL1 HP 5 
+EEVEE abilitate 2 / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 41  abilitatea 2 cooldown 2
+b. NEUTREL1 HP 2 
+EEVEE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 41  abilitatea 2 cooldown 1
+b. NEUTREL1 HP -3 
+POKEMON 1: EEVEE WON
+WINNER : Doomer WON
+----****PIKACHU VS NEUTREL2****----
+PIKACHU abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. PIKACHU HP 36 (dodge)   abilitatea 2 cooldown 4
+b. NEUTREL2 HP 16 
+PIKACHU  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. PIKACHU HP 34  abilitatea 2 cooldown 3
+b. NEUTREL2 HP 9 
+PIKACHU  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. PIKACHU HP 32  abilitatea 2 cooldown 2
+b. NEUTREL2 HP 2 
+PIKACHU abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. PIKACHU HP 30  abilitatea 1 cooldown 3 abilitatea 2 cooldown 1
+b. NEUTREL2 HP -4 
+POKEMON 1: PIKACHU WON
+WINNER : Radu WON
+----****EEVEE VS NEUTREL2****----
+EEVEE abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 42  abilitatea 2 cooldown 2
+b. NEUTREL2 HP 17 
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 42  abilitatea 2 cooldown 1
+b. NEUTREL2 HP 11 
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 42 
+b. NEUTREL2 HP 5 
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 42 
+b. NEUTREL2 HP -1 
+POKEMON 1: EEVEE WON
+WINNER : Doomer WON
+----****PIKACHU VS NEUTREL1****----
+PIKACHU abilitate 2 / NEUTREL1 atac normal  -> Rezultat: 
+a. PIKACHU HP 37 (dodge)   abilitatea 2 cooldown 4
+b. NEUTREL1 HP 6 
+PIKACHU  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. PIKACHU HP 34  abilitatea 2 cooldown 3
+b. NEUTREL1 HP -2 
+POKEMON 1: PIKACHU WON
+WINNER : Radu WON
+----****EEVEE VS NEUTREL1****----
+EEVEE abilitate 2 / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 41  abilitatea 2 cooldown 2
+b. NEUTREL1 HP 7 
+EEVEE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 39  abilitatea 2 cooldown 1
+b. NEUTREL1 HP 0 
+POKEMON 1: EEVEE WON
+WINNER : Doomer WON
+----****PIKACHU VS NEUTREL1****----
+PIKACHU abilitate 2 / NEUTREL1 atac normal  -> Rezultat: 
+a. PIKACHU HP 38 (dodge)   abilitatea 2 cooldown 4
+b. NEUTREL1 HP 6 
+PIKACHU  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. PIKACHU HP 34  abilitatea 2 cooldown 3
+b. NEUTREL1 HP -3 
+POKEMON 1: PIKACHU WON
+WINNER : Radu WON
+----****EEVEE VS NEUTREL1****----
+EEVEE abilitate 1  / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 41  abilitatea 1 cooldown 2
+b. NEUTREL1 HP 5 
+EEVEE abilitate 2 / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 38  abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+b. NEUTREL1 HP 2 
+EEVEE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 35  abilitatea 2 cooldown 1
+b. NEUTREL1 HP -6 
+POKEMON 1: EEVEE WON
+WINNER : Doomer WON
+----****PIKACHU VS NEUTREL2****----
+PIKACHU abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. PIKACHU HP 39 (dodge)   abilitatea 2 cooldown 4
+b. NEUTREL2 HP 16 
+PIKACHU abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. PIKACHU HP 35  abilitatea 1 cooldown 3 abilitatea 2 cooldown 3
+b. NEUTREL2 HP 10 
+PIKACHU  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. PIKACHU HP 30  abilitatea 1 cooldown 2 abilitatea 2 cooldown 2
+b. NEUTREL2 HP 0 
+POKEMON 1: PIKACHU WON
+WINNER : Radu WON
+----****EEVEE VS NEUTREL2****----
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 42 
+b. NEUTREL2 HP 11 
+EEVEE abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 39  abilitatea 1 cooldown 2
+b. NEUTREL2 HP 6 
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 36  abilitatea 1 cooldown 1
+b. NEUTREL2 HP -3 
+POKEMON 1: EEVEE WON
+WINNER : Doomer WON
+----****PIKACHU VS NEUTREL1****----
+PIKACHU  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. PIKACHU HP 34 
+b. NEUTREL1 HP -1 
+POKEMON 1: PIKACHU WON
+WINNER : Radu WON
+----****EEVEE VS NEUTREL1****----
+EEVEE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 41 
+b. NEUTREL1 HP 0 
+POKEMON 1: EEVEE WON
+WINNER : Doomer WON
+----****PIKACHU VS NEUTREL2****----
+PIKACHU abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. PIKACHU HP 34  abilitatea 1 cooldown 3
+b. NEUTREL2 HP 14 
+PIKACHU  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. PIKACHU HP 28  abilitatea 1 cooldown 2
+b. NEUTREL2 HP 2 
+PIKACHU abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. PIKACHU HP 28 (dodge)   abilitatea 1 cooldown 1 abilitatea 2 cooldown 4
+b. NEUTREL2 HP -2 
+POKEMON 1: PIKACHU WON
+WINNER : Radu WON
+----****EEVEE VS NEUTREL2****----
+EEVEE abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 42  abilitatea 1 cooldown 2
+b. NEUTREL2 HP 15 
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 37  abilitatea 1 cooldown 1
+b. NEUTREL2 HP 4 
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 32 
+b. NEUTREL2 HP -7 
+POKEMON 1: EEVEE WON
+WINNER : Doomer WON
+----****PIKACHU VS EEVEE****----
+PIKACHU  atac special  / EEVEE abilitate 1  -> Rezultat: 
+a. PIKACHU HP 37 
+b. EEVEE HP 44  abilitatea 1 cooldown 2
+PIKACHU abilitate 2 / EEVEE abilitate 2 -> Rezultat: 
+a. PIKACHU HP 34  abilitatea 2 cooldown 4
+b. EEVEE HP 40  abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+PIKACHU  atac special  / EEVEE atac special  -> Rezultat: 
+a. PIKACHU HP 34 (dodge)   abilitatea 2 cooldown 3
+b. EEVEE HP 36  abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+PIKACHU abilitate 1  / EEVEE atac special  -> Rezultat: 
+a. PIKACHU HP 32  abilitatea 1 cooldown 3 abilitatea 2 cooldown 2
+b. EEVEE HP 30  abilitatea 2 cooldown 1
+PIKACHU  atac special  / EEVEE abilitate 1  -> Rezultat: 
+a. PIKACHU HP 27  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+b. EEVEE HP 26  abilitatea 1 cooldown 2
+PIKACHU  atac special  / EEVEE atac special  -> Rezultat: 
+a. PIKACHU HP 25  abilitatea 1 cooldown 1
+b. EEVEE HP 22  abilitatea 1 cooldown 1
+PIKACHU  atac special  / EEVEE atac special  -> Rezultat: 
+a. PIKACHU HP 24 
+b. EEVEE HP 18 
+PIKACHU abilitate 2 / EEVEE atac special  -> Rezultat: 
+a. PIKACHU HP 24 (dodge)   abilitatea 2 cooldown 4
+b. EEVEE HP 14 
+PIKACHU abilitate 1  / EEVEE abilitate 2 -> Rezultat: 
+a. PIKACHU HP 21  abilitatea 1 cooldown 3 abilitatea 2 cooldown 3
+b. EEVEE HP 8  abilitatea 2 cooldown 2
+PIKACHU  atac special  / EEVEE atac special  -> Rezultat: 
+a. PIKACHU HP 20  abilitatea 1 cooldown 2 abilitatea 2 cooldown 2
+b. EEVEE HP 4  abilitatea 2 cooldown 1
+PIKACHU  atac special  / EEVEE abilitate 1  -> Rezultat: 
+a. PIKACHU HP 15  abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+b. EEVEE HP 0  abilitatea 1 cooldown 2
+POKEMON 1: PIKACHU WON
+WINNER : Radu WON
+----****SNORLAX VS NEUTREL2****----
+SNORLAX abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 62  abilitatea 1 cooldown 4
+b. NEUTREL2 HP 16 
+SNORLAX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 60  abilitatea 1 cooldown 3
+b. NEUTREL2 HP 11 
+SNORLAX abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 60 (dodge)   abilitatea 1 cooldown 2 abilitatea 2 cooldown 4
+b. NEUTREL2 HP 11 
+SNORLAX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 60  abilitatea 1 cooldown 1 abilitatea 2 cooldown 3
+b. NEUTREL2 HP 6 
+SNORLAX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 60  abilitatea 2 cooldown 2
+b. NEUTREL2 HP 1 
+SNORLAX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 58  abilitatea 2 cooldown 1
+b. NEUTREL2 HP -4 
+POKEMON 1: SNORLAX WON
+WINNER : Radu WON
+----****PSYDUCK VS NEUTREL2****----
+PSYDUCK abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. PSYDUCK HP 44  abilitatea 2 cooldown 4
+b. NEUTREL2 HP 18 
+PSYDUCK abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. PSYDUCK HP 44 (dodge)   abilitatea 1 cooldown 3 abilitatea 2 cooldown 3
+b. NEUTREL2 HP 16 
+PSYDUCK  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. PSYDUCK HP 43  abilitatea 1 cooldown 2 abilitatea 2 cooldown 2
+b. NEUTREL2 HP 12 
+PSYDUCK  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. PSYDUCK HP 42  abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+b. NEUTREL2 HP 8 
+PSYDUCK  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. PSYDUCK HP 41 
+b. NEUTREL2 HP 4 
+PSYDUCK abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. PSYDUCK HP 40  abilitatea 2 cooldown 4
+b. NEUTREL2 HP 2 
+PSYDUCK  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. PSYDUCK HP 39  abilitatea 2 cooldown 3
+b. NEUTREL2 HP -2 
+POKEMON 1: PSYDUCK WON
+WINNER : Doomer WON
+----****SNORLAX VS NEUTREL1****----
+SNORLAX abilitate 2 / NEUTREL1 atac normal  -> Rezultat: 
+a. SNORLAX HP 63 (dodge)   abilitatea 2 cooldown 4
+b. NEUTREL1 HP 10 
+SNORLAX  atac normal  / NEUTREL1 atac normal  -> Rezultat: 
+a. SNORLAX HP 61  abilitatea 2 cooldown 3
+b. NEUTREL1 HP 4 
+SNORLAX  atac normal  / NEUTREL1 atac normal  -> Rezultat: 
+a. SNORLAX HP 59  abilitatea 2 cooldown 2
+b. NEUTREL1 HP -2 
+POKEMON 1: SNORLAX WON
+WINNER : Radu WON
+----****PSYDUCK VS NEUTREL1****----
+PSYDUCK  atac normal  / NEUTREL1 atac normal  -> Rezultat: 
+a. PSYDUCK HP 45 
+b. NEUTREL1 HP 5 
+PSYDUCK abilitate 2 / NEUTREL1 atac normal  -> Rezultat: 
+a. PSYDUCK HP 44  abilitatea 2 cooldown 4
+b. NEUTREL1 HP 3 
+PSYDUCK  atac normal  / NEUTREL1 atac normal  -> Rezultat: 
+a. PSYDUCK HP 43  abilitatea 2 cooldown 3
+b. NEUTREL1 HP -2 
+POKEMON 1: PSYDUCK WON
+WINNER : Doomer WON
+----****SNORLAX VS PSYDUCK****----
+SNORLAX abilitate 1  / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 63  abilitatea 1 cooldown 4
+b. PSYDUCK HP 43 
+SNORLAX  atac normal  / PSYDUCK abilitate 2 -> Rezultat: 
+a. SNORLAX HP 61  abilitatea 1 cooldown 3
+b. PSYDUCK HP 40  abilitatea 2 cooldown 4
+SNORLAX  atac normal  / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 60  abilitatea 1 cooldown 2
+b. PSYDUCK HP 37  abilitatea 2 cooldown 3
+SNORLAX  atac normal  / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 59  abilitatea 1 cooldown 1
+b. PSYDUCK HP 34  abilitatea 2 cooldown 2
+SNORLAX  atac normal  / PSYDUCK abilitate 1  -> Rezultat: 
+a. SNORLAX HP 57 
+b. PSYDUCK HP 31  abilitatea 1 cooldown 3 abilitatea 2 cooldown 1
+SNORLAX  atac normal  / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 56 
+b. PSYDUCK HP 28 (dodge)   abilitatea 1 cooldown 2
+SNORLAX  atac normal  / PSYDUCK abilitate 2 -> Rezultat: 
+a. SNORLAX HP 54 
+b. PSYDUCK HP 25  abilitatea 1 cooldown 1 abilitatea 2 cooldown 4
+SNORLAX  atac normal  / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 53 
+b. PSYDUCK HP 22  abilitatea 2 cooldown 3
+SNORLAX  atac normal  / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 52 
+b. PSYDUCK HP 19  abilitatea 2 cooldown 2
+SNORLAX abilitate 2 / PSYDUCK abilitate 1  -> Rezultat: 
+a. SNORLAX HP 50  abilitatea 2 cooldown 4
+b. PSYDUCK HP 19  abilitatea 1 cooldown 3 abilitatea 2 cooldown 1
+SNORLAX  atac normal  / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 50 (dodge)   abilitatea 2 cooldown 3
+b. PSYDUCK HP 16 (dodge)   abilitatea 1 cooldown 3 abilitatea 2 cooldown 1
+SNORLAX  atac normal  / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 49  abilitatea 2 cooldown 2
+b. PSYDUCK HP 13  abilitatea 1 cooldown 2
+SNORLAX abilitate 1  / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 48  abilitatea 1 cooldown 4 abilitatea 2 cooldown 1
+b. PSYDUCK HP 9  abilitatea 1 cooldown 1
+SNORLAX  atac normal  / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 47  abilitatea 1 cooldown 3
+b. PSYDUCK HP 6 
+SNORLAX abilitate 2 / PSYDUCK abilitate 1  -> Rezultat: 
+a. SNORLAX HP 45  abilitatea 1 cooldown 2 abilitatea 2 cooldown 4
+b. PSYDUCK HP 6  abilitatea 1 cooldown 3
+SNORLAX  atac normal  / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 44 (dodge)   abilitatea 1 cooldown 2 abilitatea 2 cooldown 4
+b. PSYDUCK HP 6 (dodge)   abilitatea 1 cooldown 2
+SNORLAX  atac normal  / PSYDUCK abilitate 2 -> Rezultat: 
+a. SNORLAX HP 42  abilitatea 1 cooldown 1 abilitatea 2 cooldown 3
+b. PSYDUCK HP 3  abilitatea 1 cooldown 1 abilitatea 2 cooldown 4
+SNORLAX  atac normal  / PSYDUCK atac normal  -> Rezultat: 
+a. SNORLAX HP 41  abilitatea 2 cooldown 2
+b. PSYDUCK HP 0  abilitatea 2 cooldown 3
+POKEMON 1: SNORLAX WON
+WINNER : Radu WON

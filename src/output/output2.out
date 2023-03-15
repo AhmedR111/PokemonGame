@@ -1,0 +1,515 @@
+----****CHARMANDER VS NEUTREL1****----
+CHARMANDER abilitate 1  / NEUTREL1 atac normal  -> Rezultat: 
+a. CHARMANDER HP 62  abilitatea 1 cooldown 3
+b. NEUTREL1 HP 6 
+CHARMANDER  atac normal  / NEUTREL1 atac normal  -> Rezultat: 
+a. CHARMANDER HP 62  abilitatea 1 cooldown 2
+b. NEUTREL1 HP -2 
+POKEMON 1: CHARMANDER WON
+WINNER : Robert WON
+----****JIGGLYPUFF VS NEUTREL1****----
+JIGGLYPUFF abilitate 1  / NEUTREL1 atac normal  -> Rezultat: 
+a. JIGGLYPUFF HP 44  abilitatea 1 cooldown 3
+b. NEUTREL1 HP 6 
+JIGGLYPUFF  atac normal  / NEUTREL1 atac normal  -> Rezultat: 
+a. JIGGLYPUFF HP 44  abilitatea 1 cooldown 2
+b. NEUTREL1 HP -3 
+POKEMON 1: JIGGLYPUFF WON
+WINNER : Andrei WON
+----****CHARMANDER VS JIGGLYPUFF****----
+CHARMANDER  atac normal  / JIGGLYPUFF atac normal  -> Rezultat: 
+a. CHARMANDER HP 55 
+b. JIGGLYPUFF HP 39 
+CHARMANDER  atac normal  / JIGGLYPUFF abilitate 1  -> Rezultat: 
+a. CHARMANDER HP 51 
+b. JIGGLYPUFF HP 33  abilitatea 1 cooldown 3
+CHARMANDER abilitate 1  / JIGGLYPUFF atac normal  -> Rezultat: 
+a. CHARMANDER HP 43  abilitatea 1 cooldown 3
+b. JIGGLYPUFF HP 29  abilitatea 1 cooldown 2
+CHARMANDER  atac normal  / JIGGLYPUFF atac normal  -> Rezultat: 
+a. CHARMANDER HP 35  abilitatea 1 cooldown 2
+b. JIGGLYPUFF HP 23  abilitatea 1 cooldown 1
+CHARMANDER  atac normal  / JIGGLYPUFF atac normal  -> Rezultat: 
+a. CHARMANDER HP 28  abilitatea 1 cooldown 1
+b. JIGGLYPUFF HP 17 
+CHARMANDER abilitate 2 / JIGGLYPUFF atac normal  -> Rezultat: 
+a. CHARMANDER HP 20  abilitatea 2 cooldown 5
+b. JIGGLYPUFF HP 10 
+CHARMANDER  atac normal  / JIGGLYPUFF atac normal  -> Rezultat: 
+a. CHARMANDER HP 13  abilitatea 2 cooldown 4
+b. JIGGLYPUFF HP 4 
+CHARMANDER abilitate 1  / JIGGLYPUFF abilitate 2 -> Rezultat: 
+a. CHARMANDER HP 10  abilitatea 1 cooldown 3 abilitatea 2 cooldown 3
+b. JIGGLYPUFF HP 0  abilitatea 2 cooldown 3
+POKEMON 1: CHARMANDER WON
+WINNER : Robert WON
+----****EEVEE VS NEUTREL1****----
+EEVEE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 49 
+b. NEUTREL1 HP 7 
+EEVEE abilitate 2 / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 46  abilitatea 2 cooldown 2
+b. NEUTREL1 HP 4 
+EEVEE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 46  abilitatea 2 cooldown 1
+b. NEUTREL1 HP 1 
+EEVEE abilitate 1  / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 43  abilitatea 1 cooldown 2
+b. NEUTREL1 HP -4 
+POKEMON 1: EEVEE WON
+WINNER : Robert WON
+----****SQUIRTLE VS NEUTREL1****----
+SQUIRTLE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 66 
+b. NEUTREL1 HP 8 
+SQUIRTLE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 62 
+b. NEUTREL1 HP 6 
+SQUIRTLE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 57 
+b. NEUTREL1 HP 4 
+SQUIRTLE abilitate 2 / NEUTREL1 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 53  abilitatea 2 cooldown 1
+b. NEUTREL1 HP 2 
+SQUIRTLE abilitate 1  / NEUTREL1 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 48  abilitatea 1 cooldown 2
+b. NEUTREL1 HP -2 
+POKEMON 1: SQUIRTLE WON
+WINNER : Andrei WON
+----****EEVEE VS NEUTREL2****----
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 50 
+b. NEUTREL2 HP 16 
+EEVEE abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 50  abilitatea 2 cooldown 2
+b. NEUTREL2 HP 13 
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 47  abilitatea 2 cooldown 1
+b. NEUTREL2 HP 9 
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 44 
+b. NEUTREL2 HP 5 
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 44 
+b. NEUTREL2 HP 1 
+EEVEE abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 41  abilitatea 2 cooldown 2
+b. NEUTREL2 HP -2 
+POKEMON 1: EEVEE WON
+WINNER : Robert WON
+----****SQUIRTLE VS NEUTREL2****----
+SQUIRTLE abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 67  abilitatea 2 cooldown 1
+b. NEUTREL2 HP 18 
+SQUIRTLE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 63 
+b. NEUTREL2 HP 15 
+SQUIRTLE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 58 
+b. NEUTREL2 HP 12 
+SQUIRTLE abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 53  abilitatea 2 cooldown 1
+b. NEUTREL2 HP 10 
+SQUIRTLE abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 48  abilitatea 1 cooldown 2
+b. NEUTREL2 HP 6 
+SQUIRTLE abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 43  abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+b. NEUTREL2 HP 4 
+SQUIRTLE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 39 
+b. NEUTREL2 HP 1 
+SQUIRTLE abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 34  abilitatea 2 cooldown 1
+b. NEUTREL2 HP -1 
+POKEMON 1: SQUIRTLE WON
+WINNER : Andrei WON
+----****EEVEE VS NEUTREL2****----
+EEVEE abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 50  abilitatea 1 cooldown 2
+b. NEUTREL2 HP 15 
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 46  abilitatea 1 cooldown 1
+b. NEUTREL2 HP 10 
+EEVEE abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 45  abilitatea 2 cooldown 2
+b. NEUTREL2 HP 7 
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 44  abilitatea 2 cooldown 1
+b. NEUTREL2 HP 2 
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 43 
+b. NEUTREL2 HP -3 
+POKEMON 1: EEVEE WON
+WINNER : Robert WON
+----****SQUIRTLE VS NEUTREL2****----
+SQUIRTLE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 67 
+b. NEUTREL2 HP 16 
+SQUIRTLE abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 61  abilitatea 2 cooldown 1
+b. NEUTREL2 HP 14 
+SQUIRTLE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 55 
+b. NEUTREL2 HP 10 
+SQUIRTLE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 50 
+b. NEUTREL2 HP 6 
+SQUIRTLE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 45 
+b. NEUTREL2 HP 2 
+SQUIRTLE abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 39  abilitatea 2 cooldown 1
+b. NEUTREL2 HP 0 
+POKEMON 1: SQUIRTLE WON
+WINNER : Andrei WON
+----****EEVEE VS NEUTREL1****----
+EEVEE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 49 
+b. NEUTREL1 HP 4 
+EEVEE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 43 
+b. NEUTREL1 HP -2 
+POKEMON 1: EEVEE WON
+WINNER : Robert WON
+----****SQUIRTLE VS NEUTREL1****----
+SQUIRTLE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 65 
+b. NEUTREL1 HP 5 
+SQUIRTLE abilitate 1  / NEUTREL1 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 58  abilitatea 1 cooldown 2
+b. NEUTREL1 HP 1 
+SQUIRTLE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 51  abilitatea 1 cooldown 1
+b. NEUTREL1 HP -4 
+POKEMON 1: SQUIRTLE WON
+WINNER : Andrei WON
+----****EEVEE VS NEUTREL2****----
+EEVEE abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 47  abilitatea 1 cooldown 2
+b. NEUTREL2 HP 15 
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 41  abilitatea 1 cooldown 1
+b. NEUTREL2 HP 8 
+EEVEE abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 38  abilitatea 2 cooldown 2
+b. NEUTREL2 HP 5 
+EEVEE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. EEVEE HP 35  abilitatea 2 cooldown 1
+b. NEUTREL2 HP -2 
+POKEMON 1: EEVEE WON
+WINNER : Robert WON
+----****SQUIRTLE VS NEUTREL2****----
+SQUIRTLE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 66 
+b. NEUTREL2 HP 14 
+SQUIRTLE abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 59  abilitatea 1 cooldown 2
+b. NEUTREL2 HP 10 
+SQUIRTLE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 52  abilitatea 1 cooldown 1
+b. NEUTREL2 HP 4 
+SQUIRTLE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 44 
+b. NEUTREL2 HP -2 
+POKEMON 1: SQUIRTLE WON
+WINNER : Andrei WON
+----****EEVEE VS SQUIRTLE****----
+EEVEE abilitate 2 / SQUIRTLE abilitate 2 -> Rezultat: 
+a. EEVEE HP 52  abilitatea 2 cooldown 2
+b. SQUIRTLE HP 72  abilitatea 2 cooldown 1
+EEVEE  atac special  / SQUIRTLE abilitate 1  -> Rezultat: 
+a. EEVEE HP 48  abilitatea 2 cooldown 1
+b. SQUIRTLE HP 69  abilitatea 1 cooldown 2
+EEVEE abilitate 1  / SQUIRTLE abilitate 2 -> Rezultat: 
+a. EEVEE HP 46  abilitatea 1 cooldown 2
+b. SQUIRTLE HP 64  abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+EEVEE abilitate 2 / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 46  abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+b. SQUIRTLE HP 61 
+EEVEE  atac special  / SQUIRTLE abilitate 1  -> Rezultat: 
+a. EEVEE HP 42  abilitatea 2 cooldown 1
+b. SQUIRTLE HP 57  abilitatea 1 cooldown 2
+EEVEE  atac special  / SQUIRTLE abilitate 2 -> Rezultat: 
+a. EEVEE HP 40 
+b. SQUIRTLE HP 53  abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+EEVEE abilitate 2 / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 37  abilitatea 2 cooldown 2
+b. SQUIRTLE HP 50 
+EEVEE abilitate 1  / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 37  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+b. SQUIRTLE HP 45 
+EEVEE  atac special  / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 34  abilitatea 1 cooldown 1
+b. SQUIRTLE HP 41 
+EEVEE  atac special  / SQUIRTLE abilitate 2 -> Rezultat: 
+a. EEVEE HP 32 
+b. SQUIRTLE HP 37  abilitatea 2 cooldown 1
+EEVEE  atac special  / SQUIRTLE abilitate 1  -> Rezultat: 
+a. EEVEE HP 28 
+b. SQUIRTLE HP 34  abilitatea 1 cooldown 2
+EEVEE abilitate 1  / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 28  abilitatea 1 cooldown 2
+b. SQUIRTLE HP 29  abilitatea 1 cooldown 1
+EEVEE abilitate 2 / SQUIRTLE abilitate 2 -> Rezultat: 
+a. EEVEE HP 26  abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+b. SQUIRTLE HP 26  abilitatea 2 cooldown 1
+EEVEE  atac special  / SQUIRTLE abilitate 1  -> Rezultat: 
+a. EEVEE HP 22  abilitatea 2 cooldown 1
+b. SQUIRTLE HP 23  abilitatea 1 cooldown 2
+EEVEE  atac special  / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 22 
+b. SQUIRTLE HP 19  abilitatea 1 cooldown 1
+EEVEE  atac special  / SQUIRTLE abilitate 2 -> Rezultat: 
+a. EEVEE HP 20 
+b. SQUIRTLE HP 16  abilitatea 2 cooldown 1
+EEVEE abilitate 1  / SQUIRTLE abilitate 1  -> Rezultat: 
+a. EEVEE HP 16  abilitatea 1 cooldown 2
+b. SQUIRTLE HP 11  abilitatea 1 cooldown 2
+EEVEE abilitate 2 / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 13  abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+b. SQUIRTLE HP 8  abilitatea 1 cooldown 1
+EEVEE  atac special  / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 10  abilitatea 2 cooldown 1
+b. SQUIRTLE HP 5 
+EEVEE  atac special  / SQUIRTLE abilitate 1  -> Rezultat: 
+a. EEVEE HP 6 
+b. SQUIRTLE HP 1  abilitatea 1 cooldown 2
+EEVEE abilitate 1  / SQUIRTLE atac special  -> Rezultat: 
+a. EEVEE HP 6  abilitatea 1 cooldown 2
+b. SQUIRTLE HP -4  abilitatea 1 cooldown 1
+POKEMON 1: EEVEE WON
+WINNER : Robert WON
+----****MEOWTH VS NEUTREL2****----
+MEOWTH abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 51 (dodge)   abilitatea 2 cooldown 2
+b. NEUTREL2 HP 19 
+MEOWTH  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 51  abilitatea 2 cooldown 1
+b. NEUTREL2 HP 14 
+MEOWTH  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 49 
+b. NEUTREL2 HP 9 
+MEOWTH abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 49 (dodge)   abilitatea 1 cooldown 3
+b. NEUTREL2 HP 4 
+MEOWTH  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 49  abilitatea 1 cooldown 2
+b. NEUTREL2 HP -1 
+POKEMON 1: MEOWTH WON
+WINNER : Robert WON
+----****SNORLAX VS NEUTREL2****----
+SNORLAX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 68 
+b. NEUTREL2 HP 15 
+SNORLAX abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 68  abilitatea 1 cooldown 4
+b. NEUTREL2 HP 11 
+SNORLAX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 68  abilitatea 1 cooldown 3
+b. NEUTREL2 HP 6 
+SNORLAX abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 68 (dodge)   abilitatea 1 cooldown 2 abilitatea 2 cooldown 4
+b. NEUTREL2 HP 6 
+SNORLAX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 64  abilitatea 1 cooldown 1 abilitatea 2 cooldown 3
+b. NEUTREL2 HP 1 
+SNORLAX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 60  abilitatea 2 cooldown 2
+b. NEUTREL2 HP -4 
+POKEMON 1: SNORLAX WON
+WINNER : Andrei WON
+----****MEOWTH VS NEUTREL2****----
+MEOWTH  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 51 
+b. NEUTREL2 HP 14 
+MEOWTH abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 51 (dodge)   abilitatea 2 cooldown 2
+b. NEUTREL2 HP 13 
+MEOWTH abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 51 (dodge)   abilitatea 1 cooldown 3 abilitatea 2 cooldown 1
+b. NEUTREL2 HP 8 
+MEOWTH  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 50  abilitatea 1 cooldown 2
+b. NEUTREL2 HP 2 
+MEOWTH  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 49  abilitatea 1 cooldown 1
+b. NEUTREL2 HP -4 
+POKEMON 1: MEOWTH WON
+WINNER : Robert WON
+----****SNORLAX VS NEUTREL2****----
+SNORLAX abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 73 (dodge)   abilitatea 2 cooldown 4
+b. NEUTREL2 HP 20 
+SNORLAX abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 68  abilitatea 1 cooldown 4 abilitatea 2 cooldown 3
+b. NEUTREL2 HP 16 
+SNORLAX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 63  abilitatea 1 cooldown 3 abilitatea 2 cooldown 2
+b. NEUTREL2 HP 10 
+SNORLAX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 58  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+b. NEUTREL2 HP 4 
+SNORLAX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 53  abilitatea 1 cooldown 1
+b. NEUTREL2 HP -2 
+POKEMON 1: SNORLAX WON
+WINNER : Andrei WON
+----****MEOWTH VS NEUTREL2****----
+MEOWTH abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 53 (dodge)   abilitatea 1 cooldown 3
+b. NEUTREL2 HP 15 
+MEOWTH  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 51  abilitatea 1 cooldown 2
+b. NEUTREL2 HP 8 
+MEOWTH abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 51 (dodge)   abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+b. NEUTREL2 HP 7 
+MEOWTH  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 51  abilitatea 2 cooldown 1
+b. NEUTREL2 HP 0 
+POKEMON 1: MEOWTH WON
+WINNER : Robert WON
+----****SNORLAX VS NEUTREL2****----
+SNORLAX abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 74 (dodge)   abilitatea 2 cooldown 4
+b. NEUTREL2 HP 20 
+SNORLAX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 68  abilitatea 2 cooldown 3
+b. NEUTREL2 HP 13 
+SNORLAX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 62  abilitatea 2 cooldown 2
+b. NEUTREL2 HP 6 
+SNORLAX abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 60  abilitatea 1 cooldown 4 abilitatea 2 cooldown 1
+b. NEUTREL2 HP 2 
+SNORLAX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 58  abilitatea 1 cooldown 3
+b. NEUTREL2 HP -5 
+POKEMON 1: SNORLAX WON
+WINNER : Andrei WON
+----****MEOWTH VS NEUTREL1****----
+MEOWTH abilitate 2 / NEUTREL1 atac normal  -> Rezultat: 
+a. MEOWTH HP 54 (dodge)   abilitatea 2 cooldown 2
+b. NEUTREL1 HP 9 
+MEOWTH  atac normal  / NEUTREL1 atac normal  -> Rezultat: 
+a. MEOWTH HP 52  abilitatea 2 cooldown 1
+b. NEUTREL1 HP 1 
+MEOWTH abilitate 1  / NEUTREL1 atac normal  -> Rezultat: 
+a. MEOWTH HP 52 (dodge)   abilitatea 1 cooldown 3
+b. NEUTREL1 HP -4 
+POKEMON 1: MEOWTH WON
+WINNER : Robert WON
+----****SNORLAX VS NEUTREL1****----
+SNORLAX abilitate 2 / NEUTREL1 atac normal  -> Rezultat: 
+a. SNORLAX HP 75 (dodge)   abilitatea 2 cooldown 4
+b. NEUTREL1 HP 10 
+SNORLAX abilitate 1  / NEUTREL1 atac normal  -> Rezultat: 
+a. SNORLAX HP 67  abilitatea 1 cooldown 4 abilitatea 2 cooldown 3
+b. NEUTREL1 HP 6 
+SNORLAX  atac normal  / NEUTREL1 atac normal  -> Rezultat: 
+a. SNORLAX HP 59  abilitatea 1 cooldown 3 abilitatea 2 cooldown 2
+b. NEUTREL1 HP -2 
+POKEMON 1: SNORLAX WON
+WINNER : Andrei WON
+----****MEOWTH VS SNORLAX****----
+MEOWTH  atac normal  / SNORLAX abilitate 2 -> Rezultat: 
+a. MEOWTH HP 55 
+b. SNORLAX HP 74  abilitatea 2 cooldown 4
+MEOWTH  atac normal  / SNORLAX abilitate 1  -> Rezultat: 
+a. MEOWTH HP 51 
+b. SNORLAX HP 72 (dodge)   abilitatea 1 cooldown 4 abilitatea 2 cooldown 3
+MEOWTH abilitate 2 / SNORLAX atac normal  -> Rezultat: 
+a. MEOWTH HP 51 (dodge)   abilitatea 2 cooldown 2
+b. SNORLAX HP 71  abilitatea 1 cooldown 4 abilitatea 2 cooldown 3
+MEOWTH abilitate 1  / SNORLAX atac normal  -> Rezultat: 
+a. MEOWTH HP 51 (dodge)   abilitatea 1 cooldown 3 abilitatea 2 cooldown 1
+b. SNORLAX HP 66  abilitatea 1 cooldown 4 abilitatea 2 cooldown 3
+MEOWTH  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. MEOWTH HP 49  abilitatea 1 cooldown 2
+b. SNORLAX HP 64  abilitatea 1 cooldown 3 abilitatea 2 cooldown 2
+MEOWTH  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. MEOWTH HP 47  abilitatea 1 cooldown 1
+b. SNORLAX HP 62  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+MEOWTH  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. MEOWTH HP 45 
+b. SNORLAX HP 60  abilitatea 1 cooldown 1
+MEOWTH abilitate 1  / SNORLAX atac normal  -> Rezultat: 
+a. MEOWTH HP 45 (dodge)   abilitatea 1 cooldown 3
+b. SNORLAX HP 55  abilitatea 1 cooldown 1
+MEOWTH  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. MEOWTH HP 43  abilitatea 1 cooldown 2
+b. SNORLAX HP 53 
+MEOWTH abilitate 2 / SNORLAX abilitate 1  -> Rezultat: 
+a. MEOWTH HP 39  abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+b. SNORLAX HP 52  abilitatea 1 cooldown 4
+MEOWTH  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. MEOWTH HP 39 (dodge)   abilitatea 2 cooldown 1
+b. SNORLAX HP 50  abilitatea 1 cooldown 4
+MEOWTH abilitate 1  / SNORLAX atac normal  -> Rezultat: 
+a. MEOWTH HP 39 (dodge)   abilitatea 1 cooldown 3
+b. SNORLAX HP 45  abilitatea 1 cooldown 4
+MEOWTH  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. MEOWTH HP 37  abilitatea 1 cooldown 2
+b. SNORLAX HP 43  abilitatea 1 cooldown 3
+MEOWTH  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. MEOWTH HP 35  abilitatea 1 cooldown 1
+b. SNORLAX HP 41  abilitatea 1 cooldown 2
+MEOWTH  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. MEOWTH HP 33 
+b. SNORLAX HP 39  abilitatea 1 cooldown 1
+MEOWTH abilitate 1  / SNORLAX atac normal  -> Rezultat: 
+a. MEOWTH HP 33 (dodge)   abilitatea 1 cooldown 3
+b. SNORLAX HP 34  abilitatea 1 cooldown 1
+MEOWTH  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. MEOWTH HP 29  abilitatea 1 cooldown 2
+b. SNORLAX HP 32 
+MEOWTH abilitate 2 / SNORLAX atac normal  -> Rezultat: 
+a. MEOWTH HP 29 (dodge)   abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+b. SNORLAX HP 31 
+MEOWTH  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. MEOWTH HP 27  abilitatea 2 cooldown 1
+b. SNORLAX HP 29 
+MEOWTH  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. MEOWTH HP 25 
+b. SNORLAX HP 27 
+MEOWTH  atac normal  / SNORLAX abilitate 1  -> Rezultat: 
+a. MEOWTH HP 21 
+b. SNORLAX HP 25  abilitatea 1 cooldown 4
+MEOWTH  atac normal  / SNORLAX abilitate 2 -> Rezultat: 
+a. MEOWTH HP 21 
+b. SNORLAX HP 23  abilitatea 1 cooldown 3 abilitatea 2 cooldown 4
+MEOWTH abilitate 2 / SNORLAX atac normal  -> Rezultat: 
+a. MEOWTH HP 21 (dodge)   abilitatea 2 cooldown 2
+b. SNORLAX HP 22  abilitatea 1 cooldown 3 abilitatea 2 cooldown 4
+MEOWTH abilitate 1  / SNORLAX atac normal  -> Rezultat: 
+a. MEOWTH HP 21 (dodge)   abilitatea 1 cooldown 3 abilitatea 2 cooldown 1
+b. SNORLAX HP 17  abilitatea 1 cooldown 3 abilitatea 2 cooldown 4
+MEOWTH  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. MEOWTH HP 19  abilitatea 1 cooldown 3 abilitatea 2 cooldown 1
+b. SNORLAX HP 17 (dodge)   abilitatea 1 cooldown 2 abilitatea 2 cooldown 3
+MEOWTH  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. MEOWTH HP 15  abilitatea 1 cooldown 2
+b. SNORLAX HP 15  abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+MEOWTH abilitate 2 / SNORLAX atac normal  -> Rezultat: 
+a. MEOWTH HP 15 (dodge)   abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+b. SNORLAX HP 14  abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+MEOWTH  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. MEOWTH HP 11  abilitatea 2 cooldown 1
+b. SNORLAX HP 12  abilitatea 2 cooldown 1
+MEOWTH abilitate 1  / SNORLAX abilitate 1  -> Rezultat: 
+a. MEOWTH HP 7  abilitatea 1 cooldown 3
+b. SNORLAX HP 7  abilitatea 1 cooldown 4
+MEOWTH  atac normal  / SNORLAX abilitate 2 -> Rezultat: 
+a. MEOWTH HP 7  abilitatea 1 cooldown 2
+b. SNORLAX HP 5  abilitatea 1 cooldown 3 abilitatea 2 cooldown 4
+MEOWTH  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. MEOWTH HP 5 (dodge)   abilitatea 1 cooldown 1
+b. SNORLAX HP 3 (dodge)   abilitatea 1 cooldown 2 abilitatea 2 cooldown 3
+MEOWTH  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. MEOWTH HP 3 
+b. SNORLAX HP 1  abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+MEOWTH  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. MEOWTH HP -1 
+b. SNORLAX HP -1  abilitatea 2 cooldown 1
+DRAW

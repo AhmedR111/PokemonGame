@@ -1,0 +1,312 @@
+----****PSYDUCK VS NEUTREL2****----
+PSYDUCK  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. PSYDUCK HP 44 
+b. NEUTREL2 HP 13 
+PSYDUCK abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. PSYDUCK HP 43  abilitatea 2 cooldown 4
+b. NEUTREL2 HP 11 
+PSYDUCK  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. PSYDUCK HP 42  abilitatea 2 cooldown 3
+b. NEUTREL2 HP 4 
+PSYDUCK  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. PSYDUCK HP 41  abilitatea 2 cooldown 2
+b. NEUTREL2 HP -3 
+POKEMON 1: PSYDUCK WON
+WINNER : Mihai WON
+----****SNORLAX VS NEUTREL2****----
+SNORLAX abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 62  abilitatea 1 cooldown 4
+b. NEUTREL2 HP 16 
+SNORLAX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 62  abilitatea 1 cooldown 3
+b. NEUTREL2 HP 11 
+SNORLAX abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 62 (dodge)   abilitatea 1 cooldown 2 abilitatea 2 cooldown 4
+b. NEUTREL2 HP 11 
+SNORLAX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 57  abilitatea 1 cooldown 1 abilitatea 2 cooldown 3
+b. NEUTREL2 HP 6 
+SNORLAX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 52  abilitatea 2 cooldown 2
+b. NEUTREL2 HP 1 
+SNORLAX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 47  abilitatea 2 cooldown 1
+b. NEUTREL2 HP -4 
+POKEMON 1: SNORLAX WON
+WINNER : Ana WON
+----****PSYDUCK VS NEUTREL1****----
+PSYDUCK abilitate 1  / NEUTREL1 atac normal  -> Rezultat: 
+a. PSYDUCK HP 46 (dodge)   abilitatea 1 cooldown 3
+b. NEUTREL1 HP 8 
+PSYDUCK abilitate 2 / NEUTREL1 atac normal  -> Rezultat: 
+a. PSYDUCK HP 45  abilitatea 1 cooldown 2 abilitatea 2 cooldown 4
+b. NEUTREL1 HP 6 
+PSYDUCK  atac normal  / NEUTREL1 atac normal  -> Rezultat: 
+a. PSYDUCK HP 44  abilitatea 1 cooldown 1 abilitatea 2 cooldown 3
+b. NEUTREL1 HP -2 
+POKEMON 1: PSYDUCK WON
+WINNER : Mihai WON
+----****SNORLAX VS NEUTREL1****----
+SNORLAX abilitate 2 / NEUTREL1 atac normal  -> Rezultat: 
+a. SNORLAX HP 63 (dodge)   abilitatea 2 cooldown 4
+b. NEUTREL1 HP 10 
+SNORLAX abilitate 1  / NEUTREL1 atac normal  -> Rezultat: 
+a. SNORLAX HP 61  abilitatea 1 cooldown 4 abilitatea 2 cooldown 3
+b. NEUTREL1 HP 6 
+SNORLAX  atac normal  / NEUTREL1 atac normal  -> Rezultat: 
+a. SNORLAX HP 59  abilitatea 1 cooldown 3 abilitatea 2 cooldown 2
+b. NEUTREL1 HP 0 
+POKEMON 1: SNORLAX WON
+WINNER : Ana WON
+----****PSYDUCK VS NEUTREL1****----
+PSYDUCK  atac normal  / NEUTREL1 atac normal  -> Rezultat: 
+a. PSYDUCK HP 45 
+b. NEUTREL1 HP 1 
+PSYDUCK  atac normal  / NEUTREL1 atac normal  -> Rezultat: 
+a. PSYDUCK HP 43 
+b. NEUTREL1 HP -8 
+POKEMON 1: PSYDUCK WON
+WINNER : Mihai WON
+----****SNORLAX VS NEUTREL1****----
+SNORLAX abilitate 1  / NEUTREL1 atac normal  -> Rezultat: 
+a. SNORLAX HP 56  abilitatea 1 cooldown 4
+b. NEUTREL1 HP 6 
+SNORLAX  atac normal  / NEUTREL1 atac normal  -> Rezultat: 
+a. SNORLAX HP 53  abilitatea 1 cooldown 3
+b. NEUTREL1 HP -1 
+POKEMON 1: SNORLAX WON
+WINNER : Ana WON
+----****PSYDUCK VS NEUTREL2****----
+PSYDUCK  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. PSYDUCK HP 46 
+b. NEUTREL2 HP 10 
+PSYDUCK  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. PSYDUCK HP 44 
+b. NEUTREL2 HP 0 
+POKEMON 1: PSYDUCK WON
+WINNER : Mihai WON
+----****SNORLAX VS NEUTREL2****----
+SNORLAX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 62 
+b. NEUTREL2 HP 12 
+SNORLAX abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 59  abilitatea 1 cooldown 4
+b. NEUTREL2 HP 8 
+SNORLAX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. SNORLAX HP 51  abilitatea 1 cooldown 3
+b. NEUTREL2 HP 0 
+POKEMON 1: SNORLAX WON
+WINNER : Ana WON
+----****PSYDUCK VS SNORLAX****----
+PSYDUCK abilitate 1  / SNORLAX abilitate 1  -> Rezultat: 
+a. PSYDUCK HP 45  abilitatea 1 cooldown 3
+b. SNORLAX HP 64  abilitatea 1 cooldown 4
+PSYDUCK  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. PSYDUCK HP 45 (dodge)   abilitatea 1 cooldown 2
+b. SNORLAX HP 63  abilitatea 1 cooldown 4
+PSYDUCK  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. PSYDUCK HP 42  abilitatea 1 cooldown 1
+b. SNORLAX HP 62  abilitatea 1 cooldown 3
+PSYDUCK abilitate 2 / SNORLAX atac normal  -> Rezultat: 
+a. PSYDUCK HP 39  abilitatea 2 cooldown 4
+b. SNORLAX HP 60  abilitatea 1 cooldown 2
+PSYDUCK  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. PSYDUCK HP 36  abilitatea 2 cooldown 3
+b. SNORLAX HP 56  abilitatea 1 cooldown 1
+PSYDUCK  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. PSYDUCK HP 33  abilitatea 2 cooldown 2
+b. SNORLAX HP 55 
+PSYDUCK  atac normal  / SNORLAX abilitate 2 -> Rezultat: 
+a. PSYDUCK HP 33  abilitatea 2 cooldown 1
+b. SNORLAX HP 54  abilitatea 2 cooldown 4
+PSYDUCK  atac normal  / SNORLAX abilitate 1  -> Rezultat: 
+a. PSYDUCK HP 29 
+b. SNORLAX HP 50 (dodge)   abilitatea 1 cooldown 4 abilitatea 2 cooldown 3
+PSYDUCK abilitate 2 / SNORLAX atac normal  -> Rezultat: 
+a. PSYDUCK HP 26  abilitatea 2 cooldown 4
+b. SNORLAX HP 48  abilitatea 1 cooldown 3 abilitatea 2 cooldown 2
+PSYDUCK abilitate 1  / SNORLAX atac normal  -> Rezultat: 
+a. PSYDUCK HP 26 (dodge)   abilitatea 1 cooldown 3 abilitatea 2 cooldown 3
+b. SNORLAX HP 46  abilitatea 1 cooldown 3 abilitatea 2 cooldown 2
+PSYDUCK  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. PSYDUCK HP 23  abilitatea 1 cooldown 2 abilitatea 2 cooldown 2
+b. SNORLAX HP 45  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+PSYDUCK  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. PSYDUCK HP 20  abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+b. SNORLAX HP 41  abilitatea 1 cooldown 1
+PSYDUCK  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. PSYDUCK HP 17 
+b. SNORLAX HP 40 
+PSYDUCK abilitate 1  / SNORLAX abilitate 1  -> Rezultat: 
+a. PSYDUCK HP 13  abilitatea 1 cooldown 3
+b. SNORLAX HP 38  abilitatea 1 cooldown 4
+PSYDUCK  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. PSYDUCK HP 13 (dodge)   abilitatea 1 cooldown 2
+b. SNORLAX HP 34  abilitatea 1 cooldown 4
+PSYDUCK abilitate 2 / SNORLAX abilitate 2 -> Rezultat: 
+a. PSYDUCK HP 13  abilitatea 1 cooldown 1 abilitatea 2 cooldown 4
+b. SNORLAX HP 32  abilitatea 1 cooldown 3 abilitatea 2 cooldown 4
+PSYDUCK  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. PSYDUCK HP 10  abilitatea 2 cooldown 3
+b. SNORLAX HP 28 (dodge)   abilitatea 1 cooldown 2 abilitatea 2 cooldown 3
+PSYDUCK  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. PSYDUCK HP 7  abilitatea 2 cooldown 2
+b. SNORLAX HP 27  abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+PSYDUCK  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. PSYDUCK HP 4  abilitatea 2 cooldown 1
+b. SNORLAX HP 26  abilitatea 2 cooldown 1
+PSYDUCK  atac normal  / SNORLAX atac normal  -> Rezultat: 
+a. PSYDUCK HP 1 
+b. SNORLAX HP 25 
+PSYDUCK abilitate 1  / SNORLAX atac normal  -> Rezultat: 
+a. PSYDUCK HP 1 (dodge)   abilitatea 1 cooldown 3
+b. SNORLAX HP 23 
+PSYDUCK  atac normal  / SNORLAX abilitate 1  -> Rezultat: 
+a. PSYDUCK HP -3  abilitatea 1 cooldown 2
+b. SNORLAX HP 19  abilitatea 1 cooldown 4
+POKEMON 2: SNORLAX WON
+WINNER : Ana WON
+----****EEVEE VS JIGGLYPUFF****----
+EEVEE  atac special  / JIGGLYPUFF abilitate 2 -> Rezultat: 
+a. EEVEE HP 46 
+b. JIGGLYPUFF HP 31  abilitatea 2 cooldown 3
+EEVEE abilitate 2 / JIGGLYPUFF abilitate 1  -> Rezultat: 
+a. EEVEE HP 42  abilitatea 2 cooldown 2
+b. JIGGLYPUFF HP 28  abilitatea 1 cooldown 3 abilitatea 2 cooldown 2
+EEVEE abilitate 1  / JIGGLYPUFF atac normal  -> Rezultat: 
+a. EEVEE HP 36  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+b. JIGGLYPUFF HP 23  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+EEVEE  atac special  / JIGGLYPUFF atac normal  -> Rezultat: 
+a. EEVEE HP 30  abilitatea 1 cooldown 1
+b. JIGGLYPUFF HP 18  abilitatea 1 cooldown 1
+EEVEE abilitate 2 / JIGGLYPUFF atac normal  -> Rezultat: 
+a. EEVEE HP 24  abilitatea 2 cooldown 2
+b. JIGGLYPUFF HP 15 
+EEVEE  atac special  / JIGGLYPUFF abilitate 2 -> Rezultat: 
+a. EEVEE HP 21  abilitatea 2 cooldown 1
+b. JIGGLYPUFF HP 10  abilitatea 2 cooldown 3
+EEVEE  atac special  / JIGGLYPUFF abilitate 1  -> Rezultat: 
+a. EEVEE HP 17 
+b. JIGGLYPUFF HP 6  abilitatea 1 cooldown 3 abilitatea 2 cooldown 2
+EEVEE  atac special  / JIGGLYPUFF atac normal  -> Rezultat: 
+a. EEVEE HP 11 
+b. JIGGLYPUFF HP 2  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+EEVEE  atac special  / JIGGLYPUFF atac normal  -> Rezultat: 
+a. EEVEE HP 5 
+b. JIGGLYPUFF HP -3  abilitatea 1 cooldown 1
+POKEMON 1: EEVEE WON
+WINNER : Mihai WON
+----****PIKACHU VS NEUTREL2****----
+PIKACHU  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. PIKACHU HP 44 
+b. NEUTREL2 HP 14 
+PIKACHU abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. PIKACHU HP 44 (dodge)   abilitatea 2 cooldown 4
+b. NEUTREL2 HP 10 
+PIKACHU  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. PIKACHU HP 43  abilitatea 2 cooldown 3
+b. NEUTREL2 HP 4 
+PIKACHU abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. PIKACHU HP 41  abilitatea 1 cooldown 3 abilitatea 2 cooldown 2
+b. NEUTREL2 HP -2 
+POKEMON 1: PIKACHU WON
+WINNER : Mihai WON
+----****SQUIRTLE VS NEUTREL2****----
+SQUIRTLE abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 59  abilitatea 1 cooldown 2
+b. NEUTREL2 HP 16 
+SQUIRTLE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 56  abilitatea 1 cooldown 1
+b. NEUTREL2 HP 9 
+SQUIRTLE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 53 
+b. NEUTREL2 HP 2 
+SQUIRTLE  atac special  / NEUTREL2 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 50 
+b. NEUTREL2 HP -5 
+POKEMON 1: SQUIRTLE WON
+WINNER : Ana WON
+----****PIKACHU VS NEUTREL1****----
+PIKACHU abilitate 1  / NEUTREL1 atac normal  -> Rezultat: 
+a. PIKACHU HP 45  abilitatea 1 cooldown 3
+b. NEUTREL1 HP 4 
+PIKACHU  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. PIKACHU HP 44  abilitatea 1 cooldown 2
+b. NEUTREL1 HP -3 
+POKEMON 1: PIKACHU WON
+WINNER : Mihai WON
+----****SQUIRTLE VS NEUTREL1****----
+SQUIRTLE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 58 
+b. NEUTREL1 HP 2 
+SQUIRTLE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 53 
+b. NEUTREL1 HP -6 
+POKEMON 1: SQUIRTLE WON
+WINNER : Ana WON
+----****PIKACHU VS NEUTREL1****----
+PIKACHU abilitate 1  / NEUTREL1 atac normal  -> Rezultat: 
+a. PIKACHU HP 46  abilitatea 1 cooldown 3
+b. NEUTREL1 HP 4 
+PIKACHU abilitate 2 / NEUTREL1 atac normal  -> Rezultat: 
+a. PIKACHU HP 46 (dodge)   abilitatea 1 cooldown 2 abilitatea 2 cooldown 4
+b. NEUTREL1 HP 0 
+POKEMON 1: PIKACHU WON
+WINNER : Mihai WON
+----****SQUIRTLE VS NEUTREL1****----
+SQUIRTLE abilitate 2 / NEUTREL1 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 58  abilitatea 2 cooldown 1
+b. NEUTREL1 HP 8 
+SQUIRTLE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. SQUIRTLE HP 52 
+b. NEUTREL1 HP -1 
+POKEMON 1: SQUIRTLE WON
+WINNER : Ana WON
+----****PIKACHU VS SQUIRTLE****----
+PIKACHU abilitate 1  / SQUIRTLE atac special  -> Rezultat: 
+a. PIKACHU HP 43  abilitatea 1 cooldown 3
+b. SQUIRTLE HP 59 
+PIKACHU abilitate 2 / SQUIRTLE atac special  -> Rezultat: 
+a. PIKACHU HP 43 (dodge)   abilitatea 1 cooldown 2 abilitatea 2 cooldown 4
+b. SQUIRTLE HP 55 
+PIKACHU  atac special  / SQUIRTLE atac special  -> Rezultat: 
+a. PIKACHU HP 37  abilitatea 1 cooldown 1 abilitatea 2 cooldown 3
+b. SQUIRTLE HP 55 
+PIKACHU  atac special  / SQUIRTLE abilitate 1  -> Rezultat: 
+a. PIKACHU HP 33  abilitatea 2 cooldown 2
+b. SQUIRTLE HP 55  abilitatea 1 cooldown 2
+PIKACHU  atac special  / SQUIRTLE abilitate 2 -> Rezultat: 
+a. PIKACHU HP 31  abilitatea 2 cooldown 1
+b. SQUIRTLE HP 55  abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+PIKACHU  atac special  / SQUIRTLE atac special  -> Rezultat: 
+a. PIKACHU HP 26 
+b. SQUIRTLE HP 55 
+PIKACHU  atac special  / SQUIRTLE abilitate 1  -> Rezultat: 
+a. PIKACHU HP 22 
+b. SQUIRTLE HP 55  abilitatea 1 cooldown 2
+PIKACHU abilitate 2 / SQUIRTLE atac special  -> Rezultat: 
+a. PIKACHU HP 22 (dodge)   abilitatea 2 cooldown 4
+b. SQUIRTLE HP 51  abilitatea 1 cooldown 2
+PIKACHU  atac special  / SQUIRTLE abilitate 2 -> Rezultat: 
+a. PIKACHU HP 20  abilitatea 2 cooldown 3
+b. SQUIRTLE HP 51  abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+PIKACHU abilitate 1  / SQUIRTLE atac special  -> Rezultat: 
+a. PIKACHU HP 15  abilitatea 1 cooldown 3 abilitatea 2 cooldown 2
+b. SQUIRTLE HP 45 
+PIKACHU  atac special  / SQUIRTLE atac special  -> Rezultat: 
+a. PIKACHU HP 10  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+b. SQUIRTLE HP 45 
+PIKACHU  atac special  / SQUIRTLE abilitate 1  -> Rezultat: 
+a. PIKACHU HP 6  abilitatea 1 cooldown 1
+b. SQUIRTLE HP 45  abilitatea 1 cooldown 2
+PIKACHU  atac special  / SQUIRTLE abilitate 2 -> Rezultat: 
+a. PIKACHU HP 4 
+b. SQUIRTLE HP 45  abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+PIKACHU abilitate 2 / SQUIRTLE atac special  -> Rezultat: 
+a. PIKACHU HP 4 (dodge)   abilitatea 2 cooldown 4
+b. SQUIRTLE HP 41  abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+PIKACHU abilitate 1  / SQUIRTLE atac special  -> Rezultat: 
+a. PIKACHU HP -1  abilitatea 1 cooldown 3 abilitatea 2 cooldown 3
+b. SQUIRTLE HP 35 
+POKEMON 2: SQUIRTLE WON
+WINNER : Ana WON

@@ -1,0 +1,477 @@
+----****BULBASAUR VS PIKACHU****----
+BULBASAUR  atac special  / PIKACHU abilitate 2 -> Rezultat: 
+a. BULBASAUR HP 38 
+b. PIKACHU HP 35  abilitatea 2 cooldown 4
+BULBASAUR abilitate 1  / PIKACHU abilitate 1  -> Rezultat: 
+a. BULBASAUR HP 32  abilitatea 1 cooldown 3
+b. PIKACHU HP 29  abilitatea 1 cooldown 3 abilitatea 2 cooldown 3
+BULBASAUR abilitate 2 / PIKACHU atac special  -> Rezultat: 
+a. BULBASAUR HP 32 (dodge)   abilitatea 1 cooldown 2 abilitatea 2 cooldown 2
+b. PIKACHU HP 24  abilitatea 1 cooldown 3 abilitatea 2 cooldown 3
+BULBASAUR  atac special  / PIKACHU atac special  -> Rezultat: 
+a. BULBASAUR HP 31  abilitatea 1 cooldown 2 abilitatea 2 cooldown 2
+b. PIKACHU HP 24 (dodge)   abilitatea 1 cooldown 2 abilitatea 2 cooldown 2
+BULBASAUR  atac special  / PIKACHU atac special  -> Rezultat: 
+a. BULBASAUR HP 30  abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+b. PIKACHU HP 23  abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+BULBASAUR  atac special  / PIKACHU atac special  -> Rezultat: 
+a. BULBASAUR HP 29 
+b. PIKACHU HP 22 
+BULBASAUR abilitate 2 / PIKACHU abilitate 2 -> Rezultat: 
+a. BULBASAUR HP 25  abilitatea 2 cooldown 2
+b. PIKACHU HP 17  abilitatea 2 cooldown 4
+BULBASAUR  atac special  / PIKACHU abilitate 1  -> Rezultat: 
+a. BULBASAUR HP 19  abilitatea 2 cooldown 2
+b. PIKACHU HP 17 (dodge)   abilitatea 1 cooldown 3 abilitatea 2 cooldown 3
+BULBASAUR abilitate 1  / PIKACHU atac special  -> Rezultat: 
+a. BULBASAUR HP 19 (dodge)   abilitatea 1 cooldown 3 abilitatea 2 cooldown 1
+b. PIKACHU HP 11  abilitatea 1 cooldown 3 abilitatea 2 cooldown 3
+BULBASAUR  atac special  / PIKACHU atac special  -> Rezultat: 
+a. BULBASAUR HP 18  abilitatea 1 cooldown 2
+b. PIKACHU HP 10  abilitatea 1 cooldown 2 abilitatea 2 cooldown 2
+BULBASAUR abilitate 2 / PIKACHU atac special  -> Rezultat: 
+a. BULBASAUR HP 18 (dodge)   abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+b. PIKACHU HP 5  abilitatea 1 cooldown 2 abilitatea 2 cooldown 2
+BULBASAUR  atac special  / PIKACHU atac special  -> Rezultat: 
+a. BULBASAUR HP 17  abilitatea 2 cooldown 1
+b. PIKACHU HP 3  abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+BULBASAUR abilitate 1  / PIKACHU atac special  -> Rezultat: 
+a. BULBASAUR HP 17  abilitatea 1 cooldown 3
+b. PIKACHU HP -3 
+POKEMON 1: BULBASAUR WON
+WINNER : Felix WON
+----****VULPIX VS NEUTREL2****----
+VULPIX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. VULPIX HP 46 
+b. NEUTREL2 HP 16 
+VULPIX abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. VULPIX HP 46  abilitatea 1 cooldown 5
+b. NEUTREL2 HP 8 
+VULPIX abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. VULPIX HP 46 (dodge)   abilitatea 1 cooldown 4 abilitatea 2 cooldown 6
+b. NEUTREL2 HP 6 
+VULPIX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. VULPIX HP 46  abilitatea 1 cooldown 3 abilitatea 2 cooldown 5
+b. NEUTREL2 HP 2 
+VULPIX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. VULPIX HP 46  abilitatea 1 cooldown 2 abilitatea 2 cooldown 4
+b. NEUTREL2 HP -2 
+POKEMON 1: VULPIX WON
+WINNER : Felix WON
+----****MEOWTH VS NEUTREL2****----
+MEOWTH  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 43 
+b. NEUTREL2 HP 13 
+MEOWTH abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 43 (dodge)   abilitatea 1 cooldown 3
+b. NEUTREL2 HP 8 
+MEOWTH  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 41  abilitatea 1 cooldown 2
+b. NEUTREL2 HP 1 
+MEOWTH  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 41  abilitatea 1 cooldown 1
+b. NEUTREL2 HP -6 
+POKEMON 1: MEOWTH WON
+WINNER : Radu WON
+----****VULPIX VS NEUTREL2****----
+VULPIX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. VULPIX HP 46 
+b. NEUTREL2 HP 15 
+VULPIX abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. VULPIX HP 45  abilitatea 1 cooldown 5
+b. NEUTREL2 HP 7 
+VULPIX abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. VULPIX HP 45 (dodge)   abilitatea 1 cooldown 4 abilitatea 2 cooldown 6
+b. NEUTREL2 HP 5 
+VULPIX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. VULPIX HP 44  abilitatea 1 cooldown 3 abilitatea 2 cooldown 5
+b. NEUTREL2 HP 0 
+POKEMON 1: VULPIX WON
+WINNER : Felix WON
+----****MEOWTH VS NEUTREL2****----
+MEOWTH  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 43 
+b. NEUTREL2 HP 12 
+MEOWTH  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 42 
+b. NEUTREL2 HP 4 
+MEOWTH abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 42 (dodge)   abilitatea 1 cooldown 3
+b. NEUTREL2 HP -1 
+POKEMON 1: MEOWTH WON
+WINNER : Radu WON
+----****VULPIX VS NEUTREL1****----
+VULPIX abilitate 2 / NEUTREL1 atac normal  -> Rezultat: 
+a. VULPIX HP 48 (dodge)   abilitatea 2 cooldown 6
+b. NEUTREL1 HP 8 
+VULPIX  atac normal  / NEUTREL1 atac normal  -> Rezultat: 
+a. VULPIX HP 45  abilitatea 2 cooldown 5
+b. NEUTREL1 HP 2 
+VULPIX  atac normal  / NEUTREL1 atac normal  -> Rezultat: 
+a. VULPIX HP 42  abilitatea 2 cooldown 4
+b. NEUTREL1 HP -4 
+POKEMON 1: VULPIX WON
+WINNER : Felix WON
+----****MEOWTH VS NEUTREL1****----
+MEOWTH abilitate 2 / NEUTREL1 atac normal  -> Rezultat: 
+a. MEOWTH HP 45 (dodge)   abilitatea 2 cooldown 2
+b. NEUTREL1 HP 9 
+MEOWTH abilitate 1  / NEUTREL1 atac normal  -> Rezultat: 
+a. MEOWTH HP 45 (dodge)   abilitatea 1 cooldown 3 abilitatea 2 cooldown 1
+b. NEUTREL1 HP 4 
+MEOWTH  atac normal  / NEUTREL1 atac normal  -> Rezultat: 
+a. MEOWTH HP 44  abilitatea 1 cooldown 2
+b. NEUTREL1 HP -5 
+POKEMON 1: MEOWTH WON
+WINNER : Radu WON
+----****VULPIX VS NEUTREL2****----
+VULPIX abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. VULPIX HP 46  abilitatea 1 cooldown 5
+b. NEUTREL2 HP 12 
+VULPIX abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. VULPIX HP 46 (dodge)   abilitatea 1 cooldown 4 abilitatea 2 cooldown 6
+b. NEUTREL2 HP 10 
+VULPIX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. VULPIX HP 43  abilitatea 1 cooldown 3 abilitatea 2 cooldown 5
+b. NEUTREL2 HP 3 
+VULPIX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. VULPIX HP 40  abilitatea 1 cooldown 2 abilitatea 2 cooldown 4
+b. NEUTREL2 HP -4 
+POKEMON 1: VULPIX WON
+WINNER : Felix WON
+----****MEOWTH VS NEUTREL2****----
+MEOWTH abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 46 (dodge)   abilitatea 1 cooldown 3
+b. NEUTREL2 HP 15 
+MEOWTH  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 45  abilitatea 1 cooldown 2
+b. NEUTREL2 HP 5 
+MEOWTH abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 45 (dodge)   abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+b. NEUTREL2 HP 4 
+MEOWTH  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 42  abilitatea 2 cooldown 1
+b. NEUTREL2 HP -6 
+POKEMON 1: MEOWTH WON
+WINNER : Radu WON
+----****VULPIX VS NEUTREL2****----
+VULPIX abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. VULPIX HP 46  abilitatea 1 cooldown 5
+b. NEUTREL2 HP 12 
+VULPIX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. VULPIX HP 42  abilitatea 1 cooldown 4
+b. NEUTREL2 HP 4 
+VULPIX abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. VULPIX HP 42 (dodge)   abilitatea 1 cooldown 3 abilitatea 2 cooldown 6
+b. NEUTREL2 HP 2 
+VULPIX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. VULPIX HP 38  abilitatea 1 cooldown 2 abilitatea 2 cooldown 5
+b. NEUTREL2 HP -6 
+POKEMON 1: VULPIX WON
+WINNER : Felix WON
+----****MEOWTH VS NEUTREL2****----
+MEOWTH abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 47 (dodge)   abilitatea 2 cooldown 2
+b. NEUTREL2 HP 19 
+MEOWTH  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 45  abilitatea 2 cooldown 1
+b. NEUTREL2 HP 8 
+MEOWTH abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 45 (dodge)   abilitatea 1 cooldown 3
+b. NEUTREL2 HP 3 
+MEOWTH abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 45 (dodge)   abilitatea 1 cooldown 2 abilitatea 2 cooldown 2
+b. NEUTREL2 HP 2 
+MEOWTH  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 41  abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+b. NEUTREL2 HP -9 
+POKEMON 1: MEOWTH WON
+WINNER : Radu WON
+----****VULPIX VS NEUTREL2****----
+VULPIX abilitate 1  / NEUTREL2 atac normal  -> Rezultat: 
+a. VULPIX HP 46  abilitatea 1 cooldown 5
+b. NEUTREL2 HP 12 
+VULPIX abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. VULPIX HP 46 (dodge)   abilitatea 1 cooldown 4 abilitatea 2 cooldown 6
+b. NEUTREL2 HP 10 
+VULPIX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. VULPIX HP 41  abilitatea 1 cooldown 3 abilitatea 2 cooldown 5
+b. NEUTREL2 HP 1 
+VULPIX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. VULPIX HP 36  abilitatea 1 cooldown 2 abilitatea 2 cooldown 4
+b. NEUTREL2 HP -8 
+POKEMON 1: VULPIX WON
+WINNER : Felix WON
+----****MEOWTH VS NEUTREL2****----
+MEOWTH abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 48 (dodge)   abilitatea 2 cooldown 2
+b. NEUTREL2 HP 19 
+MEOWTH  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 43  abilitatea 2 cooldown 1
+b. NEUTREL2 HP 7 
+MEOWTH  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 38 
+b. NEUTREL2 HP -5 
+POKEMON 1: MEOWTH WON
+WINNER : Radu WON
+----****VULPIX VS NEUTREL1****----
+VULPIX  atac normal  / NEUTREL1 atac normal  -> Rezultat: 
+a. VULPIX HP 45 
+b. NEUTREL1 HP 0 
+POKEMON 1: VULPIX WON
+WINNER : Felix WON
+----****MEOWTH VS NEUTREL1****----
+MEOWTH  atac normal  / NEUTREL1 atac normal  -> Rezultat: 
+a. MEOWTH HP 44 
+b. NEUTREL1 HP -3 
+POKEMON 1: MEOWTH WON
+WINNER : Radu WON
+----****VULPIX VS NEUTREL2****----
+VULPIX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. VULPIX HP 46 
+b. NEUTREL2 HP 9 
+VULPIX  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. VULPIX HP 39 
+b. NEUTREL2 HP -2 
+POKEMON 1: VULPIX WON
+WINNER : Felix WON
+----****MEOWTH VS NEUTREL2****----
+MEOWTH abilitate 2 / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 50 (dodge)   abilitatea 2 cooldown 2
+b. NEUTREL2 HP 19 
+MEOWTH  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 45  abilitatea 2 cooldown 1
+b. NEUTREL2 HP 5 
+MEOWTH  atac normal  / NEUTREL2 atac normal  -> Rezultat: 
+a. MEOWTH HP 38 
+b. NEUTREL2 HP -9 
+POKEMON 1: MEOWTH WON
+WINNER : Radu WON
+----****VULPIX VS NEUTREL1****----
+VULPIX abilitate 2 / NEUTREL1 atac normal  -> Rezultat: 
+a. VULPIX HP 54 (dodge)   abilitatea 2 cooldown 6
+b. NEUTREL1 HP 8 
+VULPIX abilitate 1  / NEUTREL1 atac normal  -> Rezultat: 
+a. VULPIX HP 45  abilitatea 1 cooldown 5 abilitatea 2 cooldown 5
+b. NEUTREL1 HP 0 
+POKEMON 1: VULPIX WON
+WINNER : Felix WON
+----****MEOWTH VS NEUTREL1****----
+MEOWTH abilitate 1  / NEUTREL1 atac normal  -> Rezultat: 
+a. MEOWTH HP 51 (dodge)   abilitatea 1 cooldown 3
+b. NEUTREL1 HP 5 
+MEOWTH  atac normal  / NEUTREL1 atac normal  -> Rezultat: 
+a. MEOWTH HP 42  abilitatea 1 cooldown 2
+b. NEUTREL1 HP -10 
+POKEMON 1: MEOWTH WON
+WINNER : Radu WON
+----****VULPIX VS MEOWTH****----
+VULPIX  atac normal  / MEOWTH abilitate 2 -> Rezultat: 
+a. VULPIX HP 54 
+b. MEOWTH HP 49  abilitatea 2 cooldown 2
+VULPIX abilitate 1  / MEOWTH abilitate 1  -> Rezultat: 
+a. VULPIX HP 49  abilitatea 1 cooldown 5
+b. MEOWTH HP 41  abilitatea 1 cooldown 3 abilitatea 2 cooldown 1
+VULPIX abilitate 2 / MEOWTH atac normal  -> Rezultat: 
+a. VULPIX HP 49 (dodge)   abilitatea 1 cooldown 4 abilitatea 2 cooldown 6
+b. MEOWTH HP 39  abilitatea 1 cooldown 3 abilitatea 2 cooldown 1
+VULPIX  atac normal  / MEOWTH atac normal  -> Rezultat: 
+a. VULPIX HP 45  abilitatea 1 cooldown 4 abilitatea 2 cooldown 6
+b. MEOWTH HP 39 (dodge)   abilitatea 1 cooldown 2
+VULPIX  atac normal  / MEOWTH atac normal  -> Rezultat: 
+a. VULPIX HP 41  abilitatea 1 cooldown 3 abilitatea 2 cooldown 5
+b. MEOWTH HP 36  abilitatea 1 cooldown 1
+VULPIX  atac normal  / MEOWTH atac normal  -> Rezultat: 
+a. VULPIX HP 37  abilitatea 1 cooldown 2 abilitatea 2 cooldown 4
+b. MEOWTH HP 33 
+VULPIX  atac normal  / MEOWTH abilitate 1  -> Rezultat: 
+a. VULPIX HP 32  abilitatea 1 cooldown 1 abilitatea 2 cooldown 3
+b. MEOWTH HP 30  abilitatea 1 cooldown 3
+VULPIX  atac normal  / MEOWTH abilitate 2 -> Rezultat: 
+a. VULPIX HP 31  abilitatea 2 cooldown 2
+b. MEOWTH HP 29 (dodge)   abilitatea 1 cooldown 2 abilitatea 2 cooldown 2
+VULPIX  atac normal  / MEOWTH atac normal  -> Rezultat: 
+a. VULPIX HP 27  abilitatea 2 cooldown 2
+b. MEOWTH HP 29 (dodge)   abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+VULPIX  atac normal  / MEOWTH atac normal  -> Rezultat: 
+a. VULPIX HP 23  abilitatea 2 cooldown 1
+b. MEOWTH HP 26 
+VULPIX  atac normal  / MEOWTH abilitate 1  -> Rezultat: 
+a. VULPIX HP 18 
+b. MEOWTH HP 23  abilitatea 1 cooldown 3
+VULPIX abilitate 1  / MEOWTH abilitate 2 -> Rezultat: 
+a. VULPIX HP 17  abilitatea 1 cooldown 5
+b. MEOWTH HP 15  abilitatea 1 cooldown 2 abilitatea 2 cooldown 2
+VULPIX  atac normal  / MEOWTH atac normal  -> Rezultat: 
+a. VULPIX HP 13  abilitatea 1 cooldown 4
+b. MEOWTH HP 14 (dodge)   abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+VULPIX abilitate 2 / MEOWTH atac normal  -> Rezultat: 
+a. VULPIX HP 13 (dodge)   abilitatea 1 cooldown 3 abilitatea 2 cooldown 6
+b. MEOWTH HP 12  abilitatea 1 cooldown 1 abilitatea 2 cooldown 1
+VULPIX  atac normal  / MEOWTH atac normal  -> Rezultat: 
+a. VULPIX HP 9  abilitatea 1 cooldown 2 abilitatea 2 cooldown 5
+b. MEOWTH HP 9 
+VULPIX  atac normal  / MEOWTH abilitate 1  -> Rezultat: 
+a. VULPIX HP 4  abilitatea 1 cooldown 1 abilitatea 2 cooldown 4
+b. MEOWTH HP 8  abilitatea 1 cooldown 3
+VULPIX  atac normal  / MEOWTH atac normal  -> Rezultat: 
+a. VULPIX HP 0  abilitatea 2 cooldown 3
+b. MEOWTH HP 5 (dodge)   abilitatea 1 cooldown 2
+POKEMON 2: MEOWTH WON
+WINNER : Radu WON
+----****SNORLAX VS NEUTREL1****----
+SNORLAX  atac normal  / NEUTREL1 atac normal  -> Rezultat: 
+a. SNORLAX HP 71 
+b. NEUTREL1 HP 5 
+SNORLAX abilitate 1  / NEUTREL1 atac normal  -> Rezultat: 
+a. SNORLAX HP 70  abilitatea 1 cooldown 4
+b. NEUTREL1 HP 1 
+SNORLAX  atac normal  / NEUTREL1 atac normal  -> Rezultat: 
+a. SNORLAX HP 69  abilitatea 1 cooldown 3
+b. NEUTREL1 HP -4 
+POKEMON 1: SNORLAX WON
+WINNER : Felix WON
+----****EEVEE VS NEUTREL1****----
+EEVEE abilitate 2 / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 40  abilitatea 2 cooldown 2
+b. NEUTREL1 HP 7 
+EEVEE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 37  abilitatea 2 cooldown 1
+b. NEUTREL1 HP 2 
+EEVEE  atac special  / NEUTREL1 atac normal  -> Rezultat: 
+a. EEVEE HP 34 
+b. NEUTREL1 HP -3 
+POKEMON 1: EEVEE WON
+WINNER : Radu WON
+----****SNORLAX VS EEVEE****----
+SNORLAX abilitate 2 / EEVEE abilitate 2 -> Rezultat: 
+a. SNORLAX HP 70  abilitatea 2 cooldown 4
+b. EEVEE HP 42  abilitatea 2 cooldown 2
+SNORLAX abilitate 1  / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 70 (dodge)   abilitatea 1 cooldown 4 abilitatea 2 cooldown 3
+b. EEVEE HP 38  abilitatea 2 cooldown 2
+SNORLAX  atac normal  / EEVEE abilitate 1  -> Rezultat: 
+a. SNORLAX HP 65  abilitatea 1 cooldown 3 abilitatea 2 cooldown 2
+b. EEVEE HP 36  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+SNORLAX  atac normal  / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 63  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+b. EEVEE HP 34  abilitatea 1 cooldown 1
+SNORLAX  atac normal  / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 63  abilitatea 1 cooldown 1
+b. EEVEE HP 32 
+SNORLAX  atac normal  / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 63 
+b. EEVEE HP 32 
+SNORLAX  atac normal  / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 63 
+b. EEVEE HP 30 
+SNORLAX abilitate 1  / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 63  abilitatea 1 cooldown 4
+b. EEVEE HP 26 
+SNORLAX  atac normal  / EEVEE abilitate 2 -> Rezultat: 
+a. SNORLAX HP 60  abilitatea 1 cooldown 3
+b. EEVEE HP 24  abilitatea 2 cooldown 2
+SNORLAX  atac normal  / EEVEE abilitate 1  -> Rezultat: 
+a. SNORLAX HP 55  abilitatea 1 cooldown 2
+b. EEVEE HP 24  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+SNORLAX  atac normal  / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 55  abilitatea 1 cooldown 1
+b. EEVEE HP 22  abilitatea 1 cooldown 1
+SNORLAX  atac normal  / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 53 
+b. EEVEE HP 22 
+SNORLAX  atac normal  / EEVEE abilitate 2 -> Rezultat: 
+a. SNORLAX HP 50 
+b. EEVEE HP 22  abilitatea 2 cooldown 2
+SNORLAX abilitate 1  / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 50  abilitatea 1 cooldown 4
+b. EEVEE HP 18  abilitatea 2 cooldown 1
+SNORLAX  atac normal  / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 50  abilitatea 1 cooldown 3
+b. EEVEE HP 18 
+SNORLAX abilitate 2 / EEVEE abilitate 2 -> Rezultat: 
+a. SNORLAX HP 47  abilitatea 1 cooldown 2 abilitatea 2 cooldown 4
+b. EEVEE HP 18  abilitatea 2 cooldown 2
+SNORLAX  atac normal  / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 47 (dodge)   abilitatea 1 cooldown 1 abilitatea 2 cooldown 3
+b. EEVEE HP 16  abilitatea 2 cooldown 2
+SNORLAX  atac normal  / EEVEE abilitate 1  -> Rezultat: 
+a. SNORLAX HP 42  abilitatea 2 cooldown 2
+b. EEVEE HP 16  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+SNORLAX  atac normal  / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 42  abilitatea 2 cooldown 1
+b. EEVEE HP 16  abilitatea 1 cooldown 1
+SNORLAX  atac normal  / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 42 
+b. EEVEE HP 16 
+SNORLAX abilitate 2 / EEVEE abilitate 1  -> Rezultat: 
+a. SNORLAX HP 37  abilitatea 2 cooldown 4
+b. EEVEE HP 16  abilitatea 1 cooldown 2
+SNORLAX  atac normal  / EEVEE abilitate 2 -> Rezultat: 
+a. SNORLAX HP 34  abilitatea 2 cooldown 3
+b. EEVEE HP 16  abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+SNORLAX  atac normal  / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 34 (dodge)   abilitatea 2 cooldown 2
+b. EEVEE HP 16  abilitatea 1 cooldown 1 abilitatea 2 cooldown 2
+SNORLAX  atac normal  / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 34  abilitatea 2 cooldown 1
+b. EEVEE HP 16  abilitatea 2 cooldown 1
+SNORLAX  atac normal  / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 34 
+b. EEVEE HP 14 
+SNORLAX abilitate 2 / EEVEE abilitate 1  -> Rezultat: 
+a. SNORLAX HP 29  abilitatea 2 cooldown 4
+b. EEVEE HP 14  abilitatea 1 cooldown 2
+SNORLAX  atac normal  / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 29 (dodge)   abilitatea 2 cooldown 3
+b. EEVEE HP 14  abilitatea 1 cooldown 1
+SNORLAX  atac normal  / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 27  abilitatea 2 cooldown 2
+b. EEVEE HP 14 
+SNORLAX  atac normal  / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 25  abilitatea 2 cooldown 1
+b. EEVEE HP 12 
+SNORLAX abilitate 1  / EEVEE abilitate 2 -> Rezultat: 
+a. SNORLAX HP 22  abilitatea 1 cooldown 4
+b. EEVEE HP 8  abilitatea 2 cooldown 2
+SNORLAX  atac normal  / EEVEE abilitate 1  -> Rezultat: 
+a. SNORLAX HP 17  abilitatea 1 cooldown 3
+b. EEVEE HP 6  abilitatea 1 cooldown 2 abilitatea 2 cooldown 1
+SNORLAX  atac normal  / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 17  abilitatea 1 cooldown 2
+b. EEVEE HP 6  abilitatea 1 cooldown 1
+SNORLAX  atac normal  / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 17  abilitatea 1 cooldown 1
+b. EEVEE HP 6 
+SNORLAX  atac normal  / EEVEE abilitate 2 -> Rezultat: 
+a. SNORLAX HP 14 
+b. EEVEE HP 6  abilitatea 2 cooldown 2
+SNORLAX  atac normal  / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 14 
+b. EEVEE HP 6  abilitatea 2 cooldown 1
+SNORLAX abilitate 2 / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 14 (dodge)   abilitatea 2 cooldown 4
+b. EEVEE HP 6  abilitatea 2 cooldown 1
+SNORLAX  atac normal  / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 14  abilitatea 2 cooldown 3
+b. EEVEE HP 6 
+SNORLAX  atac normal  / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 14  abilitatea 2 cooldown 2
+b. EEVEE HP 6 
+SNORLAX abilitate 1  / EEVEE abilitate 1  -> Rezultat: 
+a. SNORLAX HP 9  abilitatea 1 cooldown 4 abilitatea 2 cooldown 1
+b. EEVEE HP 2  abilitatea 1 cooldown 2
+SNORLAX  atac normal  / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 7  abilitatea 1 cooldown 3
+b. EEVEE HP 2  abilitatea 1 cooldown 1
+SNORLAX  atac normal  / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 5  abilitatea 1 cooldown 2
+b. EEVEE HP 2 
+SNORLAX  atac normal  / EEVEE atac special  -> Rezultat: 
+a. SNORLAX HP 3  abilitatea 1 cooldown 1
+b. EEVEE HP 2 
+SNORLAX abilitate 2 / EEVEE abilitate 1  -> Rezultat: 
+a. SNORLAX HP -2  abilitatea 2 cooldown 4
+b. EEVEE HP 2  abilitatea 1 cooldown 2
+POKEMON 2: EEVEE WON
+WINNER : Radu WON
